@@ -351,7 +351,7 @@
         <Class IRI="-symbolic-music#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
     </Declaration>
     <Declaration>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#OWLObjectProperty_0f9f712f_a77a_4f1a_a626_de733cb74a1d"/>
@@ -1647,118 +1647,118 @@
         <NamedIndividual IRI="#OWLNamedIndividual_ff38acd9_3aba_490c_b847_933a22d8e077"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657"/>
     </Declaration>
     <EquivalentClasses>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
@@ -1801,7 +1801,7 @@
             <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
             <ObjectHasValue>
                 <ObjectProperty IRI="#OWLObjectProperty_1a748049_b76a_423e_9eba_1d51c3d6e974"/>
-                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
+                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
             </ObjectHasValue>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -1821,7 +1821,7 @@
             <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
             <ObjectHasValue>
                 <ObjectProperty IRI="#OWLObjectProperty_1a748049_b76a_423e_9eba_1d51c3d6e974"/>
-                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
+                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
             </ObjectHasValue>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -1871,7 +1871,7 @@
             <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
             <ObjectHasValue>
                 <ObjectProperty IRI="#OWLObjectProperty_1a748049_b76a_423e_9eba_1d51c3d6e974"/>
-                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
+                <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
             </ObjectHasValue>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -2458,7 +2458,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
@@ -2486,7 +2486,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
@@ -2514,7 +2514,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
@@ -2542,7 +2542,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
@@ -2598,7 +2598,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
@@ -2638,7 +2638,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
@@ -2674,7 +2674,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
@@ -2710,7 +2710,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_94f46d39_a555_4ec2_a893_8f29230f5b73"/>
@@ -2742,7 +2742,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_9b9a9dd6_56d5_4f09_b5e0_b006a40eb94a"/>
@@ -2770,7 +2770,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_bef81bd9_62b7_47e4_baf0_7b4c9100a3a3"/>
@@ -2778,23 +2778,23 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="-symbolic-music#OWLClass_0dc35c2b_1477_4ef9_8cbe_a6822be6f7c0"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="-symbolic-music#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="-symbolic-music#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="-symbolic-music#OWLClass_92d80f79_a9a1_4721_8bcb_13329a170fa7"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="-symbolic-music#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
@@ -4810,160 +4810,160 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_94f46d39_a555_4ec2_a893_8f29230f5b73"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_da568cf8_3b2d_4ec3_acea_965da355d9ee"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_da568cf8_3b2d_4ec3_acea_965da355d9ee"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_05679e38_7060_4bd9_9a3b_ae6da5cf1890"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_e43ddfa5_80b4_48a8_a8dd_c6f063fa777a"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_5c20780b_c8f9_4ad2_b3b9_12ab8195f298"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#OWLObjectProperty_e4da75e7_8b22_4fca_ab1e_57540deedb4c"/>
         <NamedIndividual IRI="#OWLNamedIndividual_1f0ce4a0_6ea9_47e5_acba_2c7d69cc482d"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
@@ -5012,17 +5012,17 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#OWLObjectProperty_13a55716_aa6d_4443_97d6_b60ea3a0bbcd"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
         <NamedIndividual IRI="#OWLNamedIndividual_3b961ed1_4f49_44b9_90ed_384bea5ab016"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#OWLObjectProperty_13a55716_aa6d_4443_97d6_b60ea3a0bbcd"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
         <NamedIndividual IRI="#OWLNamedIndividual_5fdecc20_9b59_4c2a_b690_717955243b1b"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#OWLObjectProperty_13a55716_aa6d_4443_97d6_b60ea3a0bbcd"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
         <NamedIndividual IRI="#OWLNamedIndividual_879b4259_1090_4adb_b93b_136c5d02d01c"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
@@ -5102,7 +5102,7 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#length"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7"/>
         <Literal datatypeIRI="&xsd;int">3</Literal>
     </DataPropertyAssertion>
     <EquivalentObjectProperties>
@@ -5312,7 +5312,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_1a748049_b76a_423e_9eba_1d51c3d6e974"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_2eb3a600_5c7c_4871_a01f_876b824b0435"/>
@@ -8413,202 +8413,202 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_03e47812_13ff_4819_8cf8_ff99e66a8da0</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">segah_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_060c4846_e2e2_4bf9_9756_880990fede38</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">buselik_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c668e76_15f5_409c_9078_c0dc87308f92</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Hicaz Dilkeş</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0c6f3585_d861_4aa0_a7b1_b78015d06472</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">AscendingDescending</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_0e4c6cd1_09b0_44f2_a1bc_c0cca1702cd7</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Suzinak Zirgüle</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_14f21fdc_8409_45f0_abee_b98c4a40c1d1</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">rast_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1adb8b6b_31e4_4647_9fc6_a553de34431e</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">müstear_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_1c420708_3cd9_4866_a85a_7a50ab928dce</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Ascending</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_24a4c4a3_3e7a_4dc1_a445_536e9c9665d3</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nikriz_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2712857d_62a8_4754_ac25_7d028158a244</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hicaz_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_2a2fa3f9_7ceb_4460_bdb6_d412deca49b3</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">çargah_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_311e99f5_b9bb_47e7_9409_390819e1de29</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">pençgah_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_3a60473a_3226_4057_8288_51b398268150</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">kürdi_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_44f61da7_c47b_43a2_95ee_3307a0b09ea7</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">rast_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_4f22cdf6_6bae_41b0_82c9_1f55d226394e</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">buselik_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_55ed06a3_c1c4_4881_a5c3_67b127f9b42b</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Kürdi Gerdaniye</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_5976f363_668c_42d5_a104_87616dc41c7a</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nişabur_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_613b7ccc_ec6e_4299_a1ed_35ab0ea13011</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">saba_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Rast</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_671f71b8_747b_43ba_a0eb_2390692a4148</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nişabur_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_6c536e5e_a119_42af_818b_1019417d1265</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nikriz_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_765d4474_6092_4bc1_9c44_944b8c7921f4</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">uşşak_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7c0a69d3_f6cc_41a4_aed5_c73e001af951</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hicaz_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_7f0c1b93_abbf_470b_8184_381a1c7a9abf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">çargah_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_872ecd7e_6aec_47e9_9bd6_761239cf6ef2</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hicaz_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_8a3863f9_77f9_4e9d_b6ea_3baf012338d7</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">rast_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_a58a3855_ab5f_4134_9bfa_04692405268d</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">çargah_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c0936646_bf77_4fd6_8762_acb9c493673d</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Suzinak</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_c52bbf37_a77a_4681_9cfa_61b2e9177244</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">kürdi_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cba9c7d9_eefa_43ac_bae8_8e58842a3693</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">müstear_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff</IRI>
+        <IRI>#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Progression</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff</IRI>
+        <IRI>#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff</IRI>
         <Literal xml:lang="tr" datatypeIRI="&rdf;PlainLiteral">Seyir</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_d5ef7c62_7564_4f40_b901_3f81bff201dc</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hüzzam_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_dbb5d2aa_dafd_4032_a6b4_30dabd8961ea</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">buselik_trichord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_de65c830_9d3d_4d51_8699_71ba665dd6d9</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">segah_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_e4b9c614_46b5_49bb_b27d_e0a6b195f6bf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">uşşak_tetrachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_eeb5c47a_65bd_4085_92c2_caa443bbe054</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Descending</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f4a76270_fbce_43cf_b1aa_9d8df41cc261</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">kürdi_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_f9ebaa11_47a0_487a_9e80_a7c7365868c5</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">ferahnak_pentachord</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman_turkish#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_fb2c4734_3dac_4176_be31_4c2f39be1657</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hüseyni_pentachord</Literal>
     </AnnotationAssertion>
 </Ontology>
