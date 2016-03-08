@@ -949,11 +949,6 @@
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isRecordingOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/usul#OWLClass_00000000000000000046</IRI>
-        <Literal xml:lang="tr" datatypeIRI="&rdf;PlainLiteral">Mertebe</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <AbbreviatedIRI>rdf:PlainLiteral</AbbreviatedIRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">rdf:PlainLiteral</Literal>
