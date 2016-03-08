@@ -10,18 +10,18 @@
 
 
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman-turkish"
+     xml:base="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman-turkish.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman-turkish">
+     ontologyIRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/ottoman-turkish.owl">
     <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score</Import>
+    <Import>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl</Import>
     <Declaration>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#ContinuousTimeLine"/>
     </Declaration>
@@ -260,51 +260,51 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_0dc35c2b_1477_4ef9_8cbe_a6822be6f7c0"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_0dc35c2b_1477_4ef9_8cbe_a6822be6f7c0"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_92d80f79_a9a1_4721_8bcb_13329a170fa7"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_92d80f79_a9a1_4721_8bcb_13329a170fa7"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
@@ -312,7 +312,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
@@ -336,51 +336,51 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_0dc35c2b_1477_4ef9_8cbe_a6822be6f7c0"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_0dc35c2b_1477_4ef9_8cbe_a6822be6f7c0"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_92d80f79_a9a1_4721_8bcb_13329a170fa7"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_92d80f79_a9a1_4721_8bcb_13329a170fa7"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
@@ -388,7 +388,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
@@ -407,48 +407,48 @@
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_190643be_2063_414e_bf04_fd1c93169987"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_2659543b_454e_4d99_a5b2_a5ca3257c196"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_394a980e_fa97_4951_b9b4_21e270f87d85"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_858c1f05_8145_46d2_b2fd_e282cb29c0bc"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_986b0e94_6bb0_4c66_93a0_a0e3d35b00e9"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_bdc9f772_a838_4f7d_9327_3bac0b60b35c"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_4006b363_bd03_4e2a_aea2_b95f6ec9a39b"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_758ca769_2ac0_4b34_86ad_07445194f327"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLClass_c61e5f95_9f0d_41a1_b652_9d650f347481"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
@@ -456,7 +456,7 @@
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Lyrics"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
@@ -464,7 +464,7 @@
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
         <NamedIndividual IRI="#OWLNamedIndividual_f24a11a7_c0d6_485d_b83c_ccac1d2e8141"/>
     </ObjectPropertyAssertion>
     <SubObjectPropertyOf>
@@ -520,7 +520,7 @@
         <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/untitled-ontology-7#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLObjectProperty_f76ce384_901c_497b_a54e_bc619651dd34"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_f76ce384_901c_497b_a54e_bc619651dd34"/>
     </FunctionalObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
@@ -576,7 +576,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d"/>
@@ -780,12 +780,12 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_14f09f99_e2db_4d59_9ee4_15728f67ce5c</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_14f09f99_e2db_4d59_9ee4_15728f67ce5c</IRI>
         <Literal xml:lang="tr" datatypeIRI="&rdf;PlainLiteral">BüyükUsul</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam#OWLClass_fb8b8e62_9eff_400c_91e2_aa07167b2dc3</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLClass_fb8b8e62_9eff_400c_91e2_aa07167b2dc3</IRI>
         <Literal xml:lang="tr" datatypeIRI="&rdf;PlainLiteral">KüçükUsul</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
