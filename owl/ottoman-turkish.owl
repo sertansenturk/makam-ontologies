@@ -312,7 +312,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="http://www.semanticweb.org/sertansenturk/ontologies/2015/5/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
@@ -388,7 +388,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="http://www.semanticweb.org/sertansenturk/ontologies/2015/5/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
@@ -448,7 +448,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
-        <Class IRI="#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
+        <Class IRI="http://www.semanticweb.org/sertansenturk/ontologies/2015/5/ottoman_turkish#OWLNamedIndividual_cf826a3d_451e_4daf_9ba9_70fa516205ff"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
