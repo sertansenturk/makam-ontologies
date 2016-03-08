@@ -174,9 +174,6 @@
         <Class IRI="#OWLClass_735e7a9d_8c43_4a67_8a22_b988e432b5a8"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#OWLClass_785c204d_1267_47cb_8baa_aef656c8f17b"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#OWLClass_78eaf3de_b2cc_4ac5_b4a7_a855a0142dfe"/>
     </Declaration>
     <Declaration>
@@ -2157,10 +2154,6 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#OWLClass_735e7a9d_8c43_4a67_8a22_b988e432b5a8"/>
-        <Class IRI="#OWLClass_9b9a9dd6_56d5_4f09_b5e0_b006a40eb94a"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#OWLClass_785c204d_1267_47cb_8baa_aef656c8f17b"/>
         <Class IRI="#OWLClass_9b9a9dd6_56d5_4f09_b5e0_b006a40eb94a"/>
     </SubClassOf>
     <SubClassOf>
@@ -5807,11 +5800,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#OWLClass_735e7a9d_8c43_4a67_8a22_b988e432b5a8</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Temcidmünacatı</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLClass_785c204d_1267_47cb_8baa_aef656c8f17b</IRI>
-        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Türkü</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
