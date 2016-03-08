@@ -38,7 +38,7 @@
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
+        <Class IRI="#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
     </Declaration>
     <Declaration>
         <Class IRI="#OWLClass_09e54d17_a2f6_4cce_875a_c4606b36c86f"/>
@@ -107,22 +107,22 @@
         <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
+        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#OWLDataProperty_72118e85_746e_4b89_be38_19fc8f489891"/>
@@ -143,7 +143,7 @@
         <Class IRI="http://xmlns.com/foaf/0.1/Group"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
+        <Class IRI="#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
     </SubClassOf>
     <SubClassOf>
@@ -284,7 +284,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClass_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
@@ -360,7 +360,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClass_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
@@ -431,7 +431,7 @@
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClass_795ae384_84a6_4515_b343_1c3e4df32204"/>
         <Class IRI="#OWLClass_70f8e0e0_9776_4316_9ab8_92f61449d980"/>
     </DisjointClasses>
     <DisjointClasses>
@@ -484,40 +484,40 @@
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
+        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
+        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
+        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
         <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_f76ce384_901c_497b_a54e_bc619651dd34"/>
@@ -544,22 +544,22 @@
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d"/>
-        <Class IRI="#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
+        <Class IRI="#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
         <Class IRI="#OWLClass_cdc25bbe_9c16_4468_b114_22546ed1c092"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
-        <Class IRI="#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
+        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <Class IRI="#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
@@ -576,7 +576,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d"/>
-        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClassImpl_795ae384_84a6_4515_b343_1c3e4df32204"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLClass_795ae384_84a6_4515_b343_1c3e4df32204"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d"/>
@@ -591,15 +591,15 @@
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <DataPropertyDomain>
@@ -790,12 +790,12 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214</IRI>
+        <IRI>#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214</IRI>
         <Literal xml:lang="tr" datatypeIRI="&rdf;PlainLiteral">Enstrümantist</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLClassImpl_99ed48ee_cf57_4900_99a7_4ee2f4e8b214</IRI>
+        <IRI>#OWLClass_99ed48ee_cf57_4900_99a7_4ee2f4e8b214</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Instrumentalist</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -920,32 +920,32 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_33e3bdc1_8d81_414b_a1df_65ba59d532b9</IRI>
+        <IRI>#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">playsInstrument</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_3f1ff151_c0e4_4bd0_891c_103d941d2237</IRI>
+        <IRI>#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasPerformance</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_7195d4fa_d737_4f7b_8563_aeb0baeaa38b</IRI>
+        <IRI>#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isPlayedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_84436b82_48f3_4c6d_a1ac_72f393b5d643</IRI>
+        <IRI>#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasRecording</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_844f4c86_338b_4073_9c9c_a8b02c598148</IRI>
+        <IRI>#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isPerformanceOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectPropertyImpl_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c</IRI>
+        <IRI>#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isRecordingOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
