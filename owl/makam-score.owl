@@ -1527,7 +1527,7 @@
         <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_4e63f675_3611_46c2_ae5a_be7a7f0cb779"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/OWLObjectProperty_589f1660_1059_45ea_859d_05790e72ae63"/>
+        <ObjectProperty IRI="#score_time"/>
         <NamedIndividual IRI="#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3"/>
         <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
     </ObjectPropertyAssertion>
