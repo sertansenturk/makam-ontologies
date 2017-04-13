@@ -197,139 +197,139 @@
         <ObjectProperty IRI="http://schema.org/deathPlace"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85"/>
+        <ObjectProperty IRI="#isComposerOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_0fce72a6_523d_4067_aa75_cbbbd6582568"/>
+        <ObjectProperty IRI="#hasScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_25a4d516_6457_4076_b0a4_8a961e891bf0"/>
+        <ObjectProperty IRI="#wroteLyrics"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_2d8cf55f_4e24_466f_8011_477a359513dc"/>
+        <ObjectProperty IRI="#composedBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9"/>
+        <ObjectProperty IRI="#hasTranscription"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_7b11e27b_b41c_45f1_8b34_9b4695ee1069"/>
+        <ObjectProperty IRI="#isLyricsOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_7bb14de8_ee6f_4252_ac32_c500012ab6df"/>
+        <ObjectProperty IRI="#lyricsWrittenBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_b37a0424_c017_453f_83ad_485c34d4a966"/>
+        <ObjectProperty IRI="#hasLyrics"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isScoreOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426"/>
+        <ObjectProperty IRI="#isLyricistOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_f580e6aa_7f11_4b42_b3b5_52bf78c2e5a8"/>
+        <ObjectProperty IRI="#composed"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
+        <ObjectProperty IRI="#hasUsul"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
+        <ObjectProperty IRI="#hasMakam"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#hasPart"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3"/>
+        <ObjectProperty IRI="#isSubWorkOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_355ebe17_5835_42f9_a72d_ab129927cfbb"/>
+        <ObjectProperty IRI="#hasSubsection"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_49622cb5_27f0_4e32_a5c8_a3c02038945c"/>
+        <ObjectProperty IRI="#hasForm"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_69c496d3_5a36_4ce2_9726_a9436b9ee9b1"/>
+        <ObjectProperty IRI="#sectionHasPhrase"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_74550960_3ed2_4278_afef_e34463ae9136"/>
+        <ObjectProperty IRI="#isTranscriberOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_7b5df677_a905_4060_968c_504e976f4228"/>
+        <ObjectProperty IRI="#hasSubwork"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_7f04e1b4_d2c1_48eb_93e3_09cd67d71ad1"/>
+        <ObjectProperty IRI="#hasOriginalScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_83d9d3ab_97d3_4849_b964_385ecabdbe53"/>
+        <ObjectProperty IRI="#curatedBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_91bc0165_9200_4c1a_8e49_e41ca194315c"/>
+        <ObjectProperty IRI="#performanceHasTranscription"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
+        <ObjectProperty IRI="#isOriginalScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_9e85675c_b1c9_44eb_be94_bb9c589cc53e"/>
+        <ObjectProperty IRI="#transcribedBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
+        <ObjectProperty IRI="#transcribedScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c"/>
+        <ObjectProperty IRI="#curatedScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6"/>
+        <ObjectProperty IRI="#isTranscriptionOfComposition"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc"/>
+        <ObjectProperty IRI="#compositionHasScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_ccd9ee0a_af32_4429_9d0d_6efccb789fdc"/>
+        <ObjectProperty IRI="#originalScoreWrittenBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_ea5ca6d0_a4f5_4ef3_a0fa_5bb70057a118"/>
+        <ObjectProperty IRI="#compositionHasTranscription"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612"/>
+        <ObjectProperty IRI="#phraseIsPartOfSection"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_44b0f499_33bc_4bee_901b_fab030adb02b"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isSourcePersonOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_5965027d_92a3_4918_b8e8_5255abdd4076"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#scoreWrittenBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_8aab6519_c744_4f2b_b45c_394a1254d3ec"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curatedBy"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c8426ce6_29c4_4b97_b843_0dfc3da6014a"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isCuratorOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://www.w3.org/2006/time#intervalMeets"/>
@@ -341,130 +341,130 @@
         <DataProperty IRI="http://dbpedia.org/ontology/deathDate"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_5f2e6ffb_4885_4b47_bccb_cb91a1904bd9"/>
+        <DataProperty IRI="#TRTRepertoireNo"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_afec3248_7719_433a_a92e_a5c961cf3691"/>
+        <DataProperty IRI="#creation-date"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_be78d1f8_2cff_4355_8cc0_0896584c478c"/>
+        <DataProperty IRI="#structureIsInstrumental"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176"/>
+        <DataProperty IRI="#isImprovisational"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+        <DataProperty IRI="#isInstrumental"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4"/>
+        <DataProperty IRI="#structureIsImprovisational"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="http://xmlns.com/foaf/0.1/gender"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_177484f7_41ac_4d16_ad1c_fb732ef9c501"/>
+        <NamedIndividual IRI="#Istanbul"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider_lyrics"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f2a1647_a61e_4ad9_b6d6_e1319cc3aed8"/>
+        <NamedIndividual IRI="#nihavent-pesrev-hafif-mini_mini-huseyin_sadettin_arel"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_4532b098_c89d_434b_a303_755703122517"/>
+        <NamedIndividual IRI="#Kemal-Cigrik"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_49538fbd_d894_4288_807e_103574b4b223"/>
+        <NamedIndividual IRI="#M-Kemal-Karaosmanoglu"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_576bea44_9ffd_4b83_be96_a3fa9faad889"/>
+        <NamedIndividual IRI="#Huseyin-Saadettin-Arel"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_57c99634_db54_4915_9317_9b4b87ef7032"/>
+        <NamedIndividual IRI="#rast-taksim-serbest-tanburi_cemil_bey"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_774c9260_c4af_4305_a75e_5c266c3842dc"/>
+        <NamedIndividual IRI="#Malatya"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_7da23320_1d42_42b8_9aa5_13fe7735674e"/>
+        <NamedIndividual IRI="#Vecdi-Bingol"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_9fe127be_1889_46fb_91a7_b22dc1f039fd"/>
+        <NamedIndividual IRI="#Tanburi-Cemil-Bey"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24aefe4_95e8_4f5e_9afb_7aedfce9b6b6"/>
+        <NamedIndividual IRI="#ussak-turku-sofyan-mevlam_bircok-malatya"/>
     </Declaration>
     <EquivalentClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#Interval"/>
@@ -487,14 +487,14 @@
             <Class IRI="#Score"/>
             <ObjectUnionOf>
                 <ObjectSomeValuesFrom>
-                    <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+                    <ObjectProperty IRI="#isTranscriptionOf"/>
                     <ObjectUnionOf>
                         <Class IRI="http://purl.org/ontology/mo/Composition"/>
                         <Class IRI="http://purl.org/ontology/mo/Performance"/>
                     </ObjectUnionOf>
                 </ObjectSomeValuesFrom>
                 <ObjectSomeValuesFrom>
-                    <ObjectProperty IRI="#OWLObjectProperty_9e85675c_b1c9_44eb_be94_bb9c589cc53e"/>
+                    <ObjectProperty IRI="#transcribedBy"/>
                     <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Transcriber"/>
                 </ObjectSomeValuesFrom>
             </ObjectUnionOf>
@@ -509,7 +509,7 @@
         <ObjectIntersectionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
             <DataHasValue>
-                <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+                <DataProperty IRI="#isInstrumental"/>
                 <Literal datatypeIRI="&xsd;boolean">true</Literal>
             </DataHasValue>
         </ObjectIntersectionOf>
@@ -535,7 +535,7 @@
         <ObjectIntersectionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Phrase"/>
             <DataHasValue>
-                <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+                <DataProperty IRI="#isInstrumental"/>
                 <Literal datatypeIRI="&xsd;boolean">false</Literal>
             </DataHasValue>
         </ObjectIntersectionOf>
@@ -557,7 +557,7 @@
         <ObjectIntersectionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
             <DataHasValue>
-                <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+                <DataProperty IRI="#isInstrumental"/>
                 <Literal datatypeIRI="&xsd;boolean">false</Literal>
             </DataHasValue>
         </ObjectIntersectionOf>
@@ -567,7 +567,7 @@
         <ObjectIntersectionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
             <DataHasValue>
-                <DataProperty IRI="#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4"/>
+                <DataProperty IRI="#structureIsImprovisational"/>
                 <Literal datatypeIRI="&xsd;boolean">true</Literal>
             </DataHasValue>
         </ObjectIntersectionOf>
@@ -577,7 +577,7 @@
         <ObjectIntersectionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Phrase"/>
             <DataHasValue>
-                <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+                <DataProperty IRI="#isInstrumental"/>
                 <Literal datatypeIRI="&xsd;boolean">true</Literal>
             </DataHasValue>
         </ObjectIntersectionOf>
@@ -588,11 +588,11 @@
             <Class IRI="#Score"/>
             <ObjectUnionOf>
                 <ObjectSomeValuesFrom>
-                    <ObjectProperty IRI="#OWLObjectProperty_ccd9ee0a_af32_4429_9d0d_6efccb789fdc"/>
+                    <ObjectProperty IRI="#originalScoreWrittenBy"/>
                     <Class IRI="http://purl.org/ontology/mo/Composer"/>
                 </ObjectSomeValuesFrom>
                 <ObjectExactCardinality cardinality="1">
-                    <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
+                    <ObjectProperty IRI="#isOriginalScore"/>
                     <Class IRI="http://purl.org/ontology/mo/Composition"/>
                 </ObjectExactCardinality>
             </ObjectUnionOf>
@@ -1291,559 +1291,559 @@
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Aranağme"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://schema.org/Place"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_177484f7_41ac_4d16_ad1c_fb732ef9c501"/>
+        <NamedIndividual IRI="#Istanbul"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Lyrics"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider_lyrics"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Score"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Score"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f2a1647_a61e_4ad9_b6d6_e1319cc3aed8"/>
+        <NamedIndividual IRI="#nihavent-pesrev-hafif-mini_mini-huseyin_sadettin_arel"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_4532b098_c89d_434b_a303_755703122517"/>
+        <NamedIndividual IRI="#Kemal-Cigrik"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreTimeLine"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_49538fbd_d894_4288_807e_103574b4b223"/>
+        <NamedIndividual IRI="#M-Kemal-Karaosmanoglu"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_576bea44_9ffd_4b83_be96_a3fa9faad889"/>
+        <NamedIndividual IRI="#Huseyin-Saadettin-Arel"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Score"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_57c99634_db54_4915_9317_9b4b87ef7032"/>
+        <NamedIndividual IRI="#rast-taksim-serbest-tanburi_cemil_bey"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Şarkı"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://schema.org/Place"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_774c9260_c4af_4305_a75e_5c266c3842dc"/>
+        <NamedIndividual IRI="#Malatya"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7da23320_1d42_42b8_9aa5_13fe7735674e"/>
+        <NamedIndividual IRI="#Vecdi-Bingol"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Taksim"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9fe127be_1889_46fb_91a7_b22dc1f039fd"/>
+        <NamedIndividual IRI="#Tanburi-Cemil-Bey"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Türkü"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Score"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24aefe4_95e8_4f5e_9afb_7aedfce9b6b6"/>
+        <NamedIndividual IRI="#ussak-turku-sofyan-mevlam_bircok-malatya"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#meets"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#gerdaniye_note"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#meets"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#meets"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_7bb14de8_ee6f_4252_ac32_c500012ab6df"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7da23320_1d42_42b8_9aa5_13fe7735674e"/>
+        <ObjectProperty IRI="#lyricsWrittenBy"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider_lyrics"/>
+        <NamedIndividual IRI="#Vecdi-Bingol"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_2d8cf55f_4e24_466f_8011_477a359513dc"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_576bea44_9ffd_4b83_be96_a3fa9faad889"/>
+        <ObjectProperty IRI="#composedBy"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
+        <NamedIndividual IRI="#Huseyin-Saadettin-Arel"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_de12ed7a_c263_45cd_b999_5455fc33aa8d"/>
+        <ObjectProperty IRI="#hasUsul"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Hafif"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_4e63f675_3611_46c2_ae5a_be7a7f0cb779"/>
+        <ObjectProperty IRI="#hasMakam"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Nihavent"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#score_time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f2a1647_a61e_4ad9_b6d6_e1319cc3aed8"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
+        <ObjectProperty IRI="#isScoreOf"/>
+        <NamedIndividual IRI="#nihavent-pesrev-hafif-mini_mini-huseyin_sadettin_arel"/>
+        <NamedIndividual IRI="#Mini-Mini"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_44b0f499_33bc_4bee_901b_fab030adb02b"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_4532b098_c89d_434b_a303_755703122517"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_74550960_3ed2_4278_afef_e34463ae9136"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_49538fbd_d894_4288_807e_103574b4b223"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_57c99634_db54_4915_9317_9b4b87ef7032"/>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isSourcePersonOf"/>
+        <NamedIndividual IRI="#Kemal-Cigrik"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isTranscriberOf"/>
+        <NamedIndividual IRI="#M-Kemal-Karaosmanoglu"/>
+        <NamedIndividual IRI="#rast-taksim-serbest-tanburi_cemil_bey"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#meets"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_576bea44_9ffd_4b83_be96_a3fa9faad889"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3f2a1647_a61e_4ad9_b6d6_e1319cc3aed8"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
+        <NamedIndividual IRI="#Huseyin-Saadettin-Arel"/>
+        <NamedIndividual IRI="#nihavent-pesrev-hafif-mini_mini-huseyin_sadettin_arel"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_57c99634_db54_4915_9317_9b4b87ef7032"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
+        <NamedIndividual IRI="#rast-taksim-serbest-tanburi_cemil_bey"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_b37a0424_c017_453f_83ad_485c34d4a966"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <ObjectProperty IRI="#hasLyrics"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider_lyrics"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_d3c20f8a_2f89_4468_b13d_d9af2edc8a8a"/>
+        <ObjectProperty IRI="#hasUsul"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Nimsofyan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_b18ba551_96a2_4ec5_b7cb_3e349aba68f1"/>
+        <ObjectProperty IRI="#hasMakam"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Mahur"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3"/>
+        <ObjectProperty IRI="#compositionHasScore"/>
+        <NamedIndividual IRI="#Otomobil-Ucar-Gider"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#meets"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_f8d66c93_5645_4569_8b1a_95990b74dd31"/>
+        <ObjectProperty IRI="#hasUsul"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Serbest"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_6190ed9e_d4b5_419f_91b5_83c4306d79ae"/>
+        <ObjectProperty IRI="#hasMakam"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Rast"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9fe127be_1889_46fb_91a7_b22dc1f039fd"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="#Tanburi-Cemil-Bey"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://schema.org/birthPlace"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9fe127be_1889_46fb_91a7_b22dc1f039fd"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_177484f7_41ac_4d16_ad1c_fb732ef9c501"/>
+        <NamedIndividual IRI="#Tanburi-Cemil-Bey"/>
+        <NamedIndividual IRI="#Istanbul"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#buselik_note"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#neva_note"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_26bf4e75_8022_4242_a2a7_400ed80b771f"/>
+        <ObjectProperty IRI="#hasUsul"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Sofyan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLNamedIndividual_98e1021a_36f8_4107_8861_36c94ceb0198"/>
+        <ObjectProperty IRI="#hasMakam"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Ussak"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#OWLObjectProperty_ea5ca6d0_a4f5_4ef3_a0fa_5bb70057a118"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24aefe4_95e8_4f5e_9afb_7aedfce9b6b6"/>
+        <ObjectProperty IRI="#compositionHasTranscription"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
+        <NamedIndividual IRI="#ussak-turku-sofyan-mevlam_bircok-malatya"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_774c9260_c4af_4305_a75e_5c266c3842dc"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom"/>
+        <NamedIndividual IRI="#Mevlam-Bircok-Dert-Vermis"/>
+        <NamedIndividual IRI="#Malatya"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#huseyni_note"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#buselik_note"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time"/>
         <Literal datatypeIRI="&xsd;float">2.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#index"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1"/>
         <Literal datatypeIRI="&xsd;int">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time"/>
         <Literal datatypeIRI="&xsd;float">2.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time"/>
         <Literal datatypeIRI="&xsd;float">2.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time"/>
         <Literal datatypeIRI="&xsd;float">2.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time"/>
         <Literal datatypeIRI="&xsd;float">0.25</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time"/>
         <Literal datatypeIRI="&xsd;float">0.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/mo/musicbrainz_guid"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
         <Literal datatypeIRI="&rdf;PlainLiteral">http://musicbrainz.org/recording/10d8ee91-ddc7-4e26-be86-4318b47a11ae</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#index"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6"/>
         <Literal datatypeIRI="&xsd;int">6</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#index"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2"/>
         <Literal datatypeIRI="&xsd;int">2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#index"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3"/>
         <Literal datatypeIRI="&xsd;int">3</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="http://purl.org/ontology/olo/core#index"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804"/>
+        <NamedIndividual IRI="#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4"/>
         <Literal datatypeIRI="&xsd;int">4</Literal>
     </DataPropertyAssertion>
     <EquivalentObjectProperties>
@@ -1851,232 +1851,232 @@
         <ObjectProperty IRI="http://www.w3.org/2006/time#intervalMeets"/>
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85"/>
-        <ObjectProperty IRI="#OWLObjectProperty_f580e6aa_7f11_4b42_b3b5_52bf78c2e5a8"/>
+        <ObjectProperty IRI="#isComposerOf"/>
+        <ObjectProperty IRI="#composed"/>
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_25a4d516_6457_4076_b0a4_8a961e891bf0"/>
-        <ObjectProperty IRI="#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426"/>
+        <ObjectProperty IRI="#wroteLyrics"/>
+        <ObjectProperty IRI="#isLyricistOf"/>
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_74550960_3ed2_4278_afef_e34463ae9136"/>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
+        <ObjectProperty IRI="#isTranscriberOf"/>
+        <ObjectProperty IRI="#transcribedScore"/>
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c8426ce6_29c4_4b97_b843_0dfc3da6014a"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isCuratorOf"/>
     </EquivalentObjectProperties>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#hasSubEvent"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_835c98c9_d00f_4b37_bf84_f81e18660775"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#hasSubform"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_e61acdd7_228f_481e_8b18_cb3b336258cc"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#isSubformOf"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_25a4d516_6457_4076_b0a4_8a961e891bf0"/>
+        <ObjectProperty IRI="#wroteLyrics"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_2d8cf55f_4e24_466f_8011_477a359513dc"/>
+        <ObjectProperty IRI="#composedBy"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9"/>
-        <ObjectProperty IRI="#OWLObjectProperty_0fce72a6_523d_4067_aa75_cbbbd6582568"/>
+        <ObjectProperty IRI="#hasTranscription"/>
+        <ObjectProperty IRI="#hasScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
+        <ObjectProperty IRI="#isScoreOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_b37a0424_c017_453f_83ad_485c34d4a966"/>
+        <ObjectProperty IRI="#hasLyrics"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isScoreOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_f580e6aa_7f11_4b42_b3b5_52bf78c2e5a8"/>
+        <ObjectProperty IRI="#composed"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="#isSubWorkOf"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_355ebe17_5835_42f9_a72d_ab129927cfbb"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#hasSubsection"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_69c496d3_5a36_4ce2_9726_a9436b9ee9b1"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#sectionHasPhrase"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
+        <ObjectProperty IRI="#isScoreOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_7b5df677_a905_4060_968c_504e976f4228"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="#hasSubwork"/>
+        <ObjectProperty IRI="#hasPart"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_7f04e1b4_d2c1_48eb_93e3_09cd67d71ad1"/>
-        <ObjectProperty IRI="#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc"/>
+        <ObjectProperty IRI="#hasOriginalScore"/>
+        <ObjectProperty IRI="#compositionHasScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_83d9d3ab_97d3_4849_b964_385ecabdbe53"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_5965027d_92a3_4918_b8e8_5255abdd4076"/>
+        <ObjectProperty IRI="#curatedBy"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#scoreWrittenBy"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_91bc0165_9200_4c1a_8e49_e41ca194315c"/>
-        <ObjectProperty IRI="#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9"/>
+        <ObjectProperty IRI="#performanceHasTranscription"/>
+        <ObjectProperty IRI="#hasTranscription"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
+        <ObjectProperty IRI="#isOriginalScore"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_9e85675c_b1c9_44eb_be94_bb9c589cc53e"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_5965027d_92a3_4918_b8e8_5255abdd4076"/>
+        <ObjectProperty IRI="#transcribedBy"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#scoreWrittenBy"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="#transcribedScore"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="#curatedScore"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6"/>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+        <ObjectProperty IRI="#isTranscriptionOfComposition"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc"/>
-        <ObjectProperty IRI="#OWLObjectProperty_0fce72a6_523d_4067_aa75_cbbbd6582568"/>
+        <ObjectProperty IRI="#compositionHasScore"/>
+        <ObjectProperty IRI="#hasScore"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_ccd9ee0a_af32_4429_9d0d_6efccb789fdc"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_5965027d_92a3_4918_b8e8_5255abdd4076"/>
+        <ObjectProperty IRI="#originalScoreWrittenBy"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#scoreWrittenBy"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_ea5ca6d0_a4f5_4ef3_a0fa_5bb70057a118"/>
-        <ObjectProperty IRI="#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9"/>
+        <ObjectProperty IRI="#compositionHasTranscription"/>
+        <ObjectProperty IRI="#hasTranscription"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="#phraseIsPartOfSection"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performer"/>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_2d8cf55f_4e24_466f_8011_477a359513dc"/>
-        <ObjectProperty IRI="#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85"/>
+        <ObjectProperty IRI="#composedBy"/>
+        <ObjectProperty IRI="#isComposerOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_0fce72a6_523d_4067_aa75_cbbbd6582568"/>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#hasScore"/>
+        <ObjectProperty IRI="#isScoreOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
-        <ObjectProperty IRI="#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
+        <ObjectProperty IRI="#hasTranscription"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_7b11e27b_b41c_45f1_8b34_9b4695ee1069"/>
-        <ObjectProperty IRI="#OWLObjectProperty_b37a0424_c017_453f_83ad_485c34d4a966"/>
+        <ObjectProperty IRI="#isLyricsOf"/>
+        <ObjectProperty IRI="#hasLyrics"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426"/>
-        <ObjectProperty IRI="#OWLObjectProperty_7bb14de8_ee6f_4252_ac32_c500012ab6df"/>
+        <ObjectProperty IRI="#isLyricistOf"/>
+        <ObjectProperty IRI="#lyricsWrittenBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
-        <ObjectProperty IRI="#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
+        <ObjectProperty IRI="#hasPart"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
-        <ObjectProperty IRI="#OWLObjectProperty_ccd9ee0a_af32_4429_9d0d_6efccb789fdc"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
+        <ObjectProperty IRI="#originalScoreWrittenBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3"/>
-        <ObjectProperty IRI="#OWLObjectProperty_7b5df677_a905_4060_968c_504e976f4228"/>
+        <ObjectProperty IRI="#isSubWorkOf"/>
+        <ObjectProperty IRI="#hasSubwork"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_355ebe17_5835_42f9_a72d_ab129927cfbb"/>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
+        <ObjectProperty IRI="#hasSubsection"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_91bc0165_9200_4c1a_8e49_e41ca194315c"/>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
+        <ObjectProperty IRI="#performanceHasTranscription"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_69c496d3_5a36_4ce2_9726_a9436b9ee9b1"/>
-        <ObjectProperty IRI="#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612"/>
+        <ObjectProperty IRI="#sectionHasPhrase"/>
+        <ObjectProperty IRI="#phraseIsPartOfSection"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
-        <ObjectProperty IRI="#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
+        <ObjectProperty IRI="#compositionHasScore"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
-        <ObjectProperty IRI="#OWLObjectProperty_7f04e1b4_d2c1_48eb_93e3_09cd67d71ad1"/>
+        <ObjectProperty IRI="#isOriginalScore"/>
+        <ObjectProperty IRI="#hasOriginalScore"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c"/>
-        <ObjectProperty IRI="#OWLObjectProperty_83d9d3ab_97d3_4849_b964_385ecabdbe53"/>
+        <ObjectProperty IRI="#curatedScore"/>
+        <ObjectProperty IRI="#curatedBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
-        <ObjectProperty IRI="#OWLObjectProperty_9e85675c_b1c9_44eb_be94_bb9c589cc53e"/>
+        <ObjectProperty IRI="#transcribedScore"/>
+        <ObjectProperty IRI="#transcribedBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_ea5ca6d0_a4f5_4ef3_a0fa_5bb70057a118"/>
-        <ObjectProperty IRI="#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6"/>
+        <ObjectProperty IRI="#compositionHasTranscription"/>
+        <ObjectProperty IRI="#isTranscriptionOfComposition"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4"/>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_8aab6519_c744_4f2b_b45c_394a1254d3ec"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curatedBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://www.w3.org/2006/time#intervalMetBy"/>
         <ObjectProperty IRI="http://www.w3.org/2006/time#intervalMeets"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom"/>
     </FunctionalObjectProperty>
     <TransitiveObjectProperty>
-        <ObjectProperty IRI="#OWLObjectProperty_7b5df677_a905_4060_968c_504e976f4228"/>
+        <ObjectProperty IRI="#hasSubwork"/>
     </TransitiveObjectProperty>
     <TransitiveObjectProperty>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
     </TransitiveObjectProperty>
     <TransitiveObjectProperty>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf"/>
     </TransitiveObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
@@ -2091,27 +2091,27 @@
         <Class IRI="http://schema.org/Person"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85"/>
+        <ObjectProperty IRI="#isComposerOf"/>
         <Class IRI="http://purl.org/ontology/mo/Composer"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_7b11e27b_b41c_45f1_8b34_9b4695ee1069"/>
+        <ObjectProperty IRI="#isLyricsOf"/>
         <Class IRI="http://purl.org/ontology/mo/Lyrics"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
         <Class IRI="#Transcription"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isScoreOf"/>
         <Class IRI="#Score"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426"/>
+        <ObjectProperty IRI="#isLyricistOf"/>
         <Class IRI="#Lyricist"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
+        <ObjectProperty IRI="#hasUsul"/>
         <ObjectUnionOf>
             <Class IRI="http://purl.org/ontology/mo/Composition"/>
             <Class IRI="http://purl.org/ontology/mo/Performance"/>
@@ -2119,73 +2119,73 @@
         </ObjectUnionOf>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
+        <ObjectProperty IRI="#hasMakam"/>
         <ObjectUnionOf>
             <Class IRI="http://purl.org/ontology/mo/Composition"/>
             <Class IRI="http://purl.org/ontology/mo/Performance"/>
         </ObjectUnionOf>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
         <Class IRI="http://purl.org/ontology/mo/Composer"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3"/>
+        <ObjectProperty IRI="#isSubWorkOf"/>
         <Class IRI="http://purl.org/vocab/frbr/core#Work"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
         <Class IRI="#Transcription"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_49622cb5_27f0_4e32_a5c8_a3c02038945c"/>
+        <ObjectProperty IRI="#hasForm"/>
         <ObjectUnionOf>
             <Class IRI="http://purl.org/ontology/mo/Composition"/>
             <Class IRI="http://purl.org/ontology/mo/Performance"/>
         </ObjectUnionOf>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
         <Class IRI="#Score"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
+        <ObjectProperty IRI="#isOriginalScore"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OriginalScore"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
+        <ObjectProperty IRI="#transcribedScore"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Transcriber"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c"/>
+        <ObjectProperty IRI="#curatedScore"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Curator"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6"/>
+        <ObjectProperty IRI="#isTranscriptionOfComposition"/>
         <Class IRI="#Transcription"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612"/>
+        <ObjectProperty IRI="#phraseIsPartOfSection"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Phrase"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom"/>
         <Class IRI="http://purl.org/vocab/frbr/core#Work"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_44b0f499_33bc_4bee_901b_fab030adb02b"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isSourcePersonOf"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#SourcePerson"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Curator"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
@@ -2205,93 +2205,93 @@
         <Class IRI="http://schema.org/Place"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85"/>
+        <ObjectProperty IRI="#isComposerOf"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_7b11e27b_b41c_45f1_8b34_9b4695ee1069"/>
+        <ObjectProperty IRI="#isLyricsOf"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212"/>
+        <ObjectProperty IRI="#isTranscriptionOf"/>
         <ObjectUnionOf>
             <Class IRI="http://purl.org/ontology/mo/Composition"/>
             <Class IRI="http://purl.org/ontology/mo/Performance"/>
         </ObjectUnionOf>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a"/>
+        <ObjectProperty IRI="#isScoreOf"/>
         <ObjectUnionOf>
             <Class IRI="http://purl.org/ontology/mo/Composition"/>
             <Class IRI="http://purl.org/ontology/mo/Performance"/>
         </ObjectUnionOf>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426"/>
+        <ObjectProperty IRI="#isLyricistOf"/>
         <Class IRI="http://purl.org/ontology/mo/Lyrics"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2"/>
+        <ObjectProperty IRI="#hasUsul"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Usul"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a"/>
+        <ObjectProperty IRI="#hasMakam"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Makam"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc"/>
+        <ObjectProperty IRI="#wroteOriginalScore"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OriginalScore"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3"/>
+        <ObjectProperty IRI="#isSubWorkOf"/>
         <Class IRI="http://purl.org/vocab/frbr/core#Work"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f"/>
+        <ObjectProperty IRI="#isTranscriptionOfPerformance"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_49622cb5_27f0_4e32_a5c8_a3c02038945c"/>
+        <ObjectProperty IRI="#hasForm"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Form"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48"/>
+        <ObjectProperty IRI="#isScoreOfComposition"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb"/>
+        <ObjectProperty IRI="#isOriginalScore"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad"/>
+        <ObjectProperty IRI="#transcribedScore"/>
         <Class IRI="#Transcription"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c"/>
+        <ObjectProperty IRI="#curatedScore"/>
         <Class IRI="#Score"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6"/>
+        <ObjectProperty IRI="#isTranscriptionOfComposition"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e"/>
+        <ObjectProperty IRI="#isSubsectionOf"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612"/>
+        <ObjectProperty IRI="#phraseIsPartOfSection"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Section"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom"/>
         <Class IRI="http://schema.org/Place"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore"/>
         <Class IRI="#Score"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated"/>
         <Class IRI="#Score"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -2299,24 +2299,24 @@
         <Class IRI="http://www.w3.org/2006/time#ProperInterval"/>
     </ObjectPropertyRange>
     <SubDataPropertyOf>
-        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLDataProperty_52dc5ca4_5d40_4f4f_acbf_087a15f4b163"/>
-        <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#formIsInstrumental"/>
+        <DataProperty IRI="#isInstrumental"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLDataProperty_f85212e4_521e_4402_a5d7_1e9f8509b249"/>
-        <DataProperty IRI="#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#formIsImprovisational"/>
+        <DataProperty IRI="#isImprovisational"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#OWLDataProperty_5f2e6ffb_4885_4b47_bccb_cb91a1904bd9"/>
+        <DataProperty IRI="#TRTRepertoireNo"/>
         <DataProperty IRI="http://purl.org/ontology/mo/uuid"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#OWLDataProperty_be78d1f8_2cff_4355_8cc0_0896584c478c"/>
-        <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+        <DataProperty IRI="#structureIsInstrumental"/>
+        <DataProperty IRI="#isInstrumental"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4"/>
-        <DataProperty IRI="#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176"/>
+        <DataProperty IRI="#structureIsImprovisational"/>
+        <DataProperty IRI="#isImprovisational"/>
     </SubDataPropertyOf>
     <FunctionalDataProperty>
         <DataProperty IRI="http://dbpedia.org/ontology/birthDate"/>
@@ -2336,33 +2336,33 @@
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_5f2e6ffb_4885_4b47_bccb_cb91a1904bd9"/>
+        <DataProperty IRI="#TRTRepertoireNo"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_afec3248_7719_433a_a92e_a5c961cf3691"/>
+        <DataProperty IRI="#creation-date"/>
         <Class IRI="http://purl.org/vocab/frbr/core#Work"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_be78d1f8_2cff_4355_8cc0_0896584c478c"/>
+        <DataProperty IRI="#structureIsInstrumental"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Structure"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176"/>
+        <DataProperty IRI="#isImprovisational"/>
         <ObjectUnionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Form"/>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Structure"/>
         </ObjectUnionOf>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+        <DataProperty IRI="#isInstrumental"/>
         <ObjectUnionOf>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Form"/>
             <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Structure"/>
         </ObjectUnionOf>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4"/>
+        <DataProperty IRI="#structureIsImprovisational"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Structure"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
@@ -2378,27 +2378,27 @@
         <Datatype abbreviatedIRI="xsd:dateTime"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_5f2e6ffb_4885_4b47_bccb_cb91a1904bd9"/>
+        <DataProperty IRI="#TRTRepertoireNo"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_afec3248_7719_433a_a92e_a5c961cf3691"/>
+        <DataProperty IRI="#creation-date"/>
         <Datatype abbreviatedIRI="xsd:dateTime"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_be78d1f8_2cff_4355_8cc0_0896584c478c"/>
+        <DataProperty IRI="#structureIsInstrumental"/>
         <Datatype abbreviatedIRI="xsd:boolean"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176"/>
+        <DataProperty IRI="#isImprovisational"/>
         <Datatype abbreviatedIRI="xsd:boolean"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70"/>
+        <DataProperty IRI="#isInstrumental"/>
         <Datatype abbreviatedIRI="xsd:boolean"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4"/>
+        <DataProperty IRI="#structureIsImprovisational"/>
         <Datatype abbreviatedIRI="xsd:boolean"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -3065,392 +3065,392 @@ Two timelines can be mapped using timeline maps.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_5f2e6ffb_4885_4b47_bccb_cb91a1904bd9</IRI>
+        <IRI>#TRTRepertoireNo</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">TRTRepertoireNo</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_afec3248_7719_433a_a92e_a5c961cf3691</IRI>
+        <IRI>#creation-date</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">creation date</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_be78d1f8_2cff_4355_8cc0_0896584c478c</IRI>
+        <IRI>#structureIsInstrumental</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">structureIsInstrumental</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_c61a289b_0814_4434_8bca_4c59d0357176</IRI>
+        <IRI>#isImprovisational</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isImprovisational</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_eea636b9_7129_48fd_963a_065d2a6f6a70</IRI>
+        <IRI>#isInstrumental</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isInstrumental</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_f32e2afb_b07c_43bb_98ab_33ee1586cfe4</IRI>
+        <IRI>#structureIsImprovisational</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">structureIsImprovisational</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_03938113_0b65_4a51_a686_e76df6e55dee</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e1_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_109e5b72_4338_45a6_ae59_27722d4953ef</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-aranagme</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--aranagme</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_177484f7_41ac_4d16_ad1c_fb732ef9c501</IRI>
+        <IRI>#Istanbul</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Istanbul</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_18899e92_a2dd_46e0_b866_ba84b8c4ac51</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e1</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_209da302_38ea_48da_b5d4_6de7df68a9c6</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e2_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_21c3732d_3d30_4b48_8e51_e230fef3b752</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e4_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa</IRI>
+        <IRI>#Otomobil-Ucar-Gider_lyrics</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Otomobil Uçar Gider_lyrics</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_2f6c58c8_e190_4bed_9b4d_da3d577e0257</IRI>
+        <IRI>#Mini-Mini</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mini Mini</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_357fabce_a519_4e3f_9a11_1c658abe21f3</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_3f2a1647_a61e_4ad9_b6d6_e1319cc3aed8</IRI>
+        <IRI>#nihavent-pesrev-hafif-mini_mini-huseyin_sadettin_arel</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">nihavent--pesrev--hafif--mini_mini--huseyin_sadettin_arel</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_3f70d665_fe9b_4571_ade8_53a2b051eaa6</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar1</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--bar1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_3fb555ab_18d0_400a_89b8_164c4fd026ee</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar4</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--bar4</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_4532b098_c89d_434b_a303_755703122517</IRI>
+        <IRI>#Kemal-Cigrik</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Kemal Çığrık</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_45e27e33_7a69_4c9e_989b_813bc40e3fe3</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-timeline</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--timeline</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_49538fbd_d894_4288_807e_103574b4b223</IRI>
+        <IRI>#M-Kemal-Karaosmanoglu</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">M. Kemal Karaosmanoğlu</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_52be6da3_4aa3_46f6_a079_10ee64916bf6</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e5</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_54331fcc_fb5f_4937_8c31_a22ce50b5a40</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e3_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_576bea44_9ffd_4b83_be96_a3fa9faad889</IRI>
+        <IRI>#Huseyin-Saadettin-Arel</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Hüseyin Saadettin Arel</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_57c99634_db54_4915_9317_9b4b87ef7032</IRI>
+        <IRI>#rast-taksim-serbest-tanburi_cemil_bey</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">rast--taksim--serbest----tanburi_cemil_bey</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_71f9c82f_17bc_4174_9b94_8fda059cbe06</IRI>
+        <IRI>#Otomobil-Ucar-Gider</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Otomobil Uçar Gider</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_774c9260_c4af_4305_a75e_5c266c3842dc</IRI>
+        <IRI>#Malatya</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Malatya</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_7becbaed_f461_42bc_b19e_fcf12316b7a2</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar5</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--bar5</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_7da23320_1d42_42b8_9aa5_13fe7735674e</IRI>
+        <IRI>#Vecdi-Bingol</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Vecdi Bingöl</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_8b444ed3_5950_4bdb_a26d_1762ba57cdce</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e6_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_92459061_dd6f_4543_a774_786217620257</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e5_time</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e5_time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2</IRI>
+        <IRI>#Rast-Taksim-by-Tanburi-Cemil-Bey</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Rast Taksim by Tanburi Cemil Bey</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_9b97f672_b541_4348_8974_b04dcfa86d0d</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar2</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--bar2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_9fe127be_1889_46fb_91a7_b22dc1f039fd</IRI>
+        <IRI>#Tanburi-Cemil-Bey</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Tanburi Cemil Bey</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_a1ec513b_a22f_4f04_8a03_c51418027806</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e6</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e6</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_afa02b62_9995_4bb6_8dff_af74c44b6554</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e2</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_b780bc7f_2ab5_449d_8ea6_0cb09697ab91</IRI>
+        <IRI>#Mevlam-Bircok-Dert-Vermis</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Mevlam Birçok Dert Vermiş</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_cddc6eaf_7943_482d_acc1_fadd5369714f</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e3</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_d707e2e1_e7d9_4a15_aa49_f02ff61cc804</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-e4</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--e4</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_ee21e709_cf64_4644_b470_fa36340ee25a</IRI>
+        <IRI>#mahur-sarki-nimsofyan-otomobil_ucar-munir_nurettin_selcuk-bar3</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mahur--sarki--nimsofyan--otomobil_ucar--munir_nurettin_selcuk--bar3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_f24aefe4_95e8_4f5e_9afb_7aedfce9b6b6</IRI>
+        <IRI>#ussak-turku-sofyan-mevlam_bircok-malatya</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">ussak--turku--sofyan--mevlam_bircok--malatya</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_0a819a63_71fc_4e13_b308_aaac01378e85</IRI>
+        <IRI>#isComposerOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isComposerOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_0fce72a6_523d_4067_aa75_cbbbd6582568</IRI>
+        <IRI>#hasScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_25a4d516_6457_4076_b0a4_8a961e891bf0</IRI>
+        <IRI>#wroteLyrics</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">wroteLyrics</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_2d8cf55f_4e24_466f_8011_477a359513dc</IRI>
+        <IRI>#composedBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">composedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_5e2421a3_3fb4_4fa6_b8e8_c880b93c57d9</IRI>
+        <IRI>#hasTranscription</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasTranscription</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_7b11e27b_b41c_45f1_8b34_9b4695ee1069</IRI>
+        <IRI>#isLyricsOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isLyricsOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_7bb14de8_ee6f_4252_ac32_c500012ab6df</IRI>
+        <IRI>#lyricsWrittenBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">lyricsWrittenBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_9cf17e96_3449_4098_8bdb_e5fcb4797212</IRI>
+        <IRI>#isTranscriptionOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isTranscriptionOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_b37a0424_c017_453f_83ad_485c34d4a966</IRI>
+        <IRI>#hasLyrics</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasLyrics</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_d54cb729_2f64_46f2_9311_a1170a8e009a</IRI>
+        <IRI>#isScoreOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isScoreOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_f1634704_726a_4d9f_b463_dcf8c9b14426</IRI>
+        <IRI>#isLyricistOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isLyricistOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_f580e6aa_7f11_4b42_b3b5_52bf78c2e5a8</IRI>
+        <IRI>#composed</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">composed</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_0aad85c8_27a2_403d_b458_50bc3b87ebc2</IRI>
+        <IRI>#hasUsul</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasUsul</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_0bb2d6ba_c672_4fec_bb7b_75c909a4b64a</IRI>
+        <IRI>#hasMakam</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasMakam</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_1d5aa141_68e7_46fa_aa7b_309c27fa2d40</IRI>
+        <IRI>#hasPart</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasPart</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_209e373f_44f4_4b99_833a_b831ca4b9fdc</IRI>
+        <IRI>#wroteOriginalScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">wroteOriginalScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_24b8b7e9_cf82_476e_a8ee_b8e6688660e3</IRI>
+        <IRI>#isSubWorkOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isSubWorkOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_355ebe17_5835_42f9_a72d_ab129927cfbb</IRI>
+        <IRI>#hasSubsection</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasSubsection</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_45a63a3f_28f1_41e0_a6e5_4c66107b5c7f</IRI>
+        <IRI>#isTranscriptionOfPerformance</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isTranscriptionOfPerformance</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_49622cb5_27f0_4e32_a5c8_a3c02038945c</IRI>
+        <IRI>#hasForm</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasForm</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_69c496d3_5a36_4ce2_9726_a9436b9ee9b1</IRI>
+        <IRI>#sectionHasPhrase</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">sectionHasPhrase</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_717dec53_873f_47cc_a340_3ed3860c7f48</IRI>
+        <IRI>#isScoreOfComposition</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isScoreOfComposition</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_74550960_3ed2_4278_afef_e34463ae9136</IRI>
+        <IRI>#isTranscriberOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isTranscriberOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_7b5df677_a905_4060_968c_504e976f4228</IRI>
+        <IRI>#hasSubwork</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasSubwork</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_7f04e1b4_d2c1_48eb_93e3_09cd67d71ad1</IRI>
+        <IRI>#hasOriginalScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hasOriginalScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_83d9d3ab_97d3_4849_b964_385ecabdbe53</IRI>
+        <IRI>#curatedBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">curatedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_91bc0165_9200_4c1a_8e49_e41ca194315c</IRI>
+        <IRI>#performanceHasTranscription</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">performanceHasTranscription</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_9cfca580_79ec_4f51_bd79_74a2a40a7ebb</IRI>
+        <IRI>#isOriginalScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isOriginalScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_9e85675c_b1c9_44eb_be94_bb9c589cc53e</IRI>
+        <IRI>#transcribedBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">transcribedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_9efe8e74_0e9c_4780_895e_8af57a52a2ad</IRI>
+        <IRI>#transcribedScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">transcribedScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_a7fbedc5_4f5d_472c_9b2c_cf325df8df4c</IRI>
+        <IRI>#curatedScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">curatedScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_a9801f20_f5a1_4730_83cd_96e3155ff0a6</IRI>
+        <IRI>#isTranscriptionOfComposition</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isTranscriptionOfComposition</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_ad569841_421b_410e_b409_4ce678212d9e</IRI>
+        <IRI>#isSubsectionOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isSubsectionOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_c1978757_22a5_4916_a9d1_7d5ee0a56bfc</IRI>
+        <IRI>#compositionHasScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">compositionHasScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_ccd9ee0a_af32_4429_9d0d_6efccb789fdc</IRI>
+        <IRI>#originalScoreWrittenBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">originalScoreWrittenBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_ea5ca6d0_a4f5_4ef3_a0fa_5bb70057a118</IRI>
+        <IRI>#compositionHasTranscription</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">compositionHasTranscription</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_ffbb11b3_e78b_4231_846a_d5dd9ffe3612</IRI>
+        <IRI>#phraseIsPartOfSection</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">phraseIsPartOfSection</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -3495,42 +3495,42 @@ Two timelines can be mapped using timeline maps.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_3f45d32b_90e5_405d_941d_f8406e6c5575</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#workIsFrom</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">workIsFrom</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_44b0f499_33bc_4bee_901b_fab030adb02b</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isSourcePersonOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isSourcePersonOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_5965027d_92a3_4918_b8e8_5255abdd4076</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#scoreWrittenBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">scoreWrittenBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_8aab6519_c744_4f2b_b45c_394a1254d3ec</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curatedBy</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">curatedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_9bc71aa8_32ce_4d78_ab6a_f37bb44107f9</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#wroteScore</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">wroteScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c706d2ea_423b_4d88_a18e_e0a5ceeb4ec4</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#curated</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">curated</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_c8426ce6_29c4_4b97_b843_0dfc3da6014a</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isCuratorOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isCuratorOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLObjectProperty_ed280547_f25a_4859_b377_19fba5322b4d</IRI>
+        <IRI>https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#isPartOf</IRI>
         <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isPartOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>

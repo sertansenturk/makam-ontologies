@@ -17,13 +17,13 @@
         <Class IRI="#Süpürde"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#playsInstrument"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
+        <ObjectProperty IRI="#hasPerformance"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24a11a7_c0d6_485d_b83c_ccac1d2e8141"/>
+        <NamedIndividual IRI="#tanbur"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Mansur"/>
@@ -44,19 +44,19 @@
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#isRecordingOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#isPlayedBy"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.org/ontology/mo/member"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_38ee55cf_5901_4fc9_b870_de6f01258f45"/>
+        <ObjectProperty IRI="#transposition"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
+        <ObjectProperty IRI="#hasRecording"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Davut"/>
@@ -65,13 +65,13 @@
         <Class IRI="#Bolahenk"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d"/>
+        <ObjectProperty IRI="#audio-time"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#isPerformanceOf"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://xmlns.com/foaf/0.1/Group"/>
@@ -86,22 +86,22 @@
         <Class IRI="#Bolahenk_Mabeyni"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
+        <ObjectProperty IRI="#singsIn"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d"/>
+        <ObjectProperty IRI="#performedAccordingToScore"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#OWLDataProperty_72118e85_746e_4b89_be38_19fc8f489891"/>
+        <DataProperty IRI="#performance-date"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Kız_Mabeyni"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d"/>
+        <ObjectProperty IRI="#playsInstrumentIn"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Vocalist"/>
@@ -128,7 +128,7 @@
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music.owl#Accidental"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
@@ -170,7 +170,7 @@
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#TimeLine"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_f76ce384_901c_497b_a54e_bc619651dd34"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#hasTonic"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://schema.org/Place"/>
@@ -185,7 +185,7 @@
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Chord"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Otomobil-Ucar-Gider_lyrics"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#Makam"/>
@@ -540,16 +540,16 @@
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Lyrics"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_2743f5dd_ff95_488e_870e_6163b5fd63aa"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Otomobil-Ucar-Gider_lyrics"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24a11a7_c0d6_485d_b83c_ccac1d2e8141"/>
+        <NamedIndividual IRI="#tanbur"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
-        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#OWLNamedIndividual_9783e179_4581_4e47_b083_2ecec77d38d2"/>
-        <NamedIndividual IRI="#OWLNamedIndividual_f24a11a7_c0d6_485d_b83c_ccac1d2e8141"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Rast-Taksim-by-Tanburi-Cemil-Bey"/>
+        <NamedIndividual IRI="#tanbur"/>
     </ObjectPropertyAssertion>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
@@ -560,51 +560,51 @@
         <ObjectProperty IRI="http://xmlns.com/foaf/0.1/member"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#playsInstrument"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
+        <ObjectProperty IRI="#hasPerformance"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#isPlayedBy"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
+        <ObjectProperty IRI="#hasRecording"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#isPerformanceOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#isRecordingOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d"/>
+        <ObjectProperty IRI="#playsInstrumentIn"/>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
+        <ObjectProperty IRI="#singsIn"/>
         <ObjectProperty IRI="http://purl.org/ontology/mo/performed"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
-        <ObjectProperty IRI="#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b"/>
+        <ObjectProperty IRI="#playsInstrument"/>
+        <ObjectProperty IRI="#isPlayedBy"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237"/>
-        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#hasPerformance"/>
+        <ObjectProperty IRI="#isPerformanceOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643"/>
-        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#hasRecording"/>
+        <ObjectProperty IRI="#isRecordingOf"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#OWLObjectProperty_f76ce384_901c_497b_a54e_bc619651dd34"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam.owl#hasTonic"/>
     </FunctionalObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://purl.org/ontology/mo/instrument"/>
@@ -615,35 +615,35 @@
         <Class IRI="http://purl.org/ontology/mo/MusicGroup"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#playsInstrument"/>
         <Class IRI="#Instrumentalist"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_38ee55cf_5901_4fc9_b870_de6f01258f45"/>
+        <ObjectProperty IRI="#transposition"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d"/>
+        <ObjectProperty IRI="#performedAccordingToScore"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#isPerformanceOf"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d"/>
+        <ObjectProperty IRI="#audio-time"/>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#isRecordingOf"/>
         <Class IRI="http://purl.org/ontology/mo/Recording"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d"/>
+        <ObjectProperty IRI="#playsInstrumentIn"/>
         <Class IRI="#Instrumentalist"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
+        <ObjectProperty IRI="#singsIn"/>
         <Class IRI="#Vocalist"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
@@ -655,43 +655,43 @@
         <Class IRI="http://xmlns.com/foaf/0.1/Agent"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9"/>
+        <ObjectProperty IRI="#playsInstrument"/>
         <Class IRI="http://purl.org/ontology/mo/Instrument"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_38ee55cf_5901_4fc9_b870_de6f01258f45"/>
+        <ObjectProperty IRI="#transposition"/>
         <Class IRI="#Transposition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d"/>
+        <ObjectProperty IRI="#performedAccordingToScore"/>
         <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-score.owl#Score"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148"/>
+        <ObjectProperty IRI="#isPerformanceOf"/>
         <Class IRI="http://purl.org/ontology/mo/Composition"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d"/>
+        <ObjectProperty IRI="#audio-time"/>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#DiscreteTimeLine"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c"/>
+        <ObjectProperty IRI="#isRecordingOf"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d"/>
+        <ObjectProperty IRI="#playsInstrumentIn"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729"/>
+        <ObjectProperty IRI="#singsIn"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </ObjectPropertyRange>
     <DataPropertyDomain>
-        <DataProperty IRI="#OWLDataProperty_72118e85_746e_4b89_be38_19fc8f489891"/>
+        <DataProperty IRI="#performance-date"/>
         <Class IRI="http://purl.org/ontology/mo/Performance"/>
     </DataPropertyDomain>
     <DataPropertyRange>
-        <DataProperty IRI="#OWLDataProperty_72118e85_746e_4b89_be38_19fc8f489891"/>
+        <DataProperty IRI="#performance-date"/>
         <Datatype abbreviatedIRI="xsd:dateTime"/>
     </DataPropertyRange>
     <AnnotationAssertion>
@@ -959,67 +959,67 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLDataProperty_72118e85_746e_4b89_be38_19fc8f489891</IRI>
+        <IRI>#performance-date</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">performance date</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLNamedIndividual_f24a11a7_c0d6_485d_b83c_ccac1d2e8141</IRI>
+        <IRI>#tanbur</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tanbur</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_33e3bdc1_8d81_414b_a1df_65ba59d532b9</IRI>
+        <IRI>#playsInstrument</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">playsInstrument</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_38ee55cf_5901_4fc9_b870_de6f01258f45</IRI>
+        <IRI>#transposition</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">transposition</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_3f1ff151_c0e4_4bd0_891c_103d941d2237</IRI>
+        <IRI>#hasPerformance</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasPerformance</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_63abfab8_5572_4154_a212_9df4edbd4a3d</IRI>
+        <IRI>#performedAccordingToScore</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">performedAccordingToScore</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_7195d4fa_d737_4f7b_8563_aeb0baeaa38b</IRI>
+        <IRI>#isPlayedBy</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">isPlayedBy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_84436b82_48f3_4c6d_a1ac_72f393b5d643</IRI>
+        <IRI>#hasRecording</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasRecording</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_844f4c86_338b_4073_9c9c_a8b02c598148</IRI>
+        <IRI>#isPerformanceOf</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">isPerformanceOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_89f2fd64_47ec_4719_801b_4d61a649484d</IRI>
+        <IRI>#audio-time</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">audio time</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_96bddf20_46f8_492e_ad7f_4ff2abaa5c0c</IRI>
+        <IRI>#isRecordingOf</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">isRecordingOf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_cf1787e9_5c5f_40b1_940c_2121b418c61d</IRI>
+        <IRI>#playsInstrumentIn</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">playsInstrumentIn</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#OWLObjectProperty_e7997e47_0707_4cf7_8c35_0853b589d729</IRI>
+        <IRI>#singsIn</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">singsIn</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
