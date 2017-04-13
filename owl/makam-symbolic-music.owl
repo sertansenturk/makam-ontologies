@@ -33,142 +33,142 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedQuarterNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_cb700852_112f_42d1_b9c2_88ae89fa2f09"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_cb700852_112f_42d1_b9c2_88ae89fa2f09"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#EurogeneticNote"/>
+        <Class IRI="#EurogeneticNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2e64d127_7bbd_4ec6_9ca2_e6199a608e18"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2e64d127_7bbd_4ec6_9ca2_e6199a608e18"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_58c1fd1f_314f_4365_88a2_da1d5575c76f"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_58c1fd1f_314f_4365_88a2_da1d5575c76f"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d4fafddb_9cd3_40e4_8819_91c22b2c0beb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d4fafddb_9cd3_40e4_8819_91c22b2c0beb"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedThirtySecondRest"/>
+        <Class IRI="#DottedThirtySecondRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_db874690_e5d1_45ed_89a3_7fb9bd590c14"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_db874690_e5d1_45ed_89a3_7fb9bd590c14"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Whole"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ac126561_33f9_49bf_8f35_a45fc61ac860"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ac126561_33f9_49bf_8f35_a45fc61ac860"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_59c99567_f17b_4831_91c0_2f6ad8a54036"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_59c99567_f17b_4831_91c0_2f6ad8a54036"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedHalf"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#StrokeName"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#QuarterStroke"/>
+        <Class IRI="#QuarterStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_c4207c8e_4713_462f_bfbe_2af0772cdea8"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c4207c8e_4713_462f_bfbe_2af0772cdea8"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a40cd98d_5536_453c_9027_91f661128e28"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a40cd98d_5536_453c_9027_91f661128e28"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedLongaNote"/>
+        <Class IRI="#DottedLongaNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8bd72a68_9f13_4378_b9e8_1011874ca433"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8bd72a68_9f13_4378_b9e8_1011874ca433"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2b349fd8_9a2b_472e_a5eb_ff20aeaad75d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2b349fd8_9a2b_472e_a5eb_ff20aeaad75d"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedQuarterStroke"/>
+        <Class IRI="#DottedQuarterStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e253b5f0_7096_4ec2_a99e_632903ec6ebc"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e253b5f0_7096_4ec2_a99e_632903ec6ebc"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedHalfRest"/>
+        <Class IRI="#DottedHalfRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Küçük_Mücennep"/>
+        <Class IRI="#Küçük_Mücennep"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </Declaration>
     <Declaration>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedSixteenthNote"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7a2fef64_172b_4bc3_beee_0152e6c9268f"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7a2fef64_172b_4bc3_beee_0152e6c9268f"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Slur"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_19c752e5_1484_4614_91e7_97e040e9eb6d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_19c752e5_1484_4614_91e7_97e040e9eb6d"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedLonga"/>
+        <Class IRI="#DottedLonga"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Comma"/>
+        <Class IRI="#Comma"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
+        <ObjectProperty IRI="#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/EighthRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9318a928_9791_441d_928c_e7741d71e57f"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9318a928_9791_441d_928c_e7741d71e57f"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#SixteenthStroke"/>
+        <Class IRI="#SixteenthStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5444addf_2c1e_4366_90a3_fa0b47ba7878"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5444addf_2c1e_4366_90a3_fa0b47ba7878"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/HalfRest"/>
@@ -177,85 +177,85 @@
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b02a74d0_da55_46d9_9b0f_e44f7210971d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b02a74d0_da55_46d9_9b0f_e44f7210971d"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Pitch"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f7418bd3_14f7_4cfe_a549_04aca0a1d407"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f7418bd3_14f7_4cfe_a549_04aca0a1d407"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
+        <ObjectProperty IRI="#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Longa"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#StrokeEvent"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5e37893d_8eff_4ddb_bea0_b9fe1963f962"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5e37893d_8eff_4ddb_bea0_b9fe1963f962"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/LongaRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_992ec9df_03c1_4cd1_85c5_f7c45ac3c178"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_992ec9df_03c1_4cd1_85c5_f7c45ac3c178"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Büyük_Mücennep"/>
+        <Class IRI="#Büyük_Mücennep"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedQuarterRest"/>
+        <Class IRI="#DottedQuarterRest"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Thirtysecond"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedWholeStroke"/>
+        <Class IRI="#DottedWholeStroke"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedWhole"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_79ecfc5f_5da8_4caa_8c7e_b38cdc9b56ba"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_79ecfc5f_5da8_4caa_8c7e_b38cdc9b56ba"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_589b66f8_8e60_4fd6_abe7_31846a04372b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_589b66f8_8e60_4fd6_abe7_31846a04372b"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedLongaRest"/>
+        <Class IRI="#DottedLongaRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a8863ee0_f1bb_40c5_a105_5afd52073ace"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a8863ee0_f1bb_40c5_a105_5afd52073ace"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_bb168753_581c_4823_9f70_ddafec141533"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_bb168753_581c_4823_9f70_ddafec141533"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedDoubleWholeStroke"/>
+        <Class IRI="#DottedDoubleWholeStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_830e9862_3ef7_4758_8d44_55fc3f4afe40"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_830e9862_3ef7_4758_8d44_55fc3f4afe40"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_faf19a5a_e0b9_44c1_93a1_9e58124e18b9"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_faf19a5a_e0b9_44c1_93a1_9e58124e18b9"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#FolkNoteName"/>
+        <Class IRI="#FolkNoteName"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedWholeNote"/>
@@ -267,97 +267,97 @@
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/timbre"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_586a9bcc_e4b2_4994_9da8_1a9303fb925d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_586a9bcc_e4b2_4994_9da8_1a9303fb925d"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#factor"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Bakiye"/>
+        <Class IRI="#Bakiye"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2cc08e31_7d08_428f_b2d2_13c3d4868704"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2cc08e31_7d08_428f_b2d2_13c3d4868704"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#53TETNoteName"/>
+        <Class IRI="#53TETNoteName"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/note"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#FolkAccidental"/>
+        <Class IRI="#FolkAccidental"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_88943b1f_e71a_41b5_816a_f5cc352db510"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_88943b1f_e71a_41b5_816a_f5cc352db510"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5227bca4_9a45_4d5a_9708_183806224951"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5227bca4_9a45_4d5a_9708_183806224951"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedSixteenthStroke"/>
+        <Class IRI="#DottedSixteenthStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/HalfNote"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Section"/>
+        <Class IRI="#Section"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9e60e38a_a3e0_4edb_9272_51258945363b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e60e38a_a3e0_4edb_9272_51258945363b"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedThirtysecond"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d6b8683d_00b1_493e_b722_36bf5028fbc5"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d6b8683d_00b1_493e_b722_36bf5028fbc5"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_04a55f07_d295_4f41_8845_ca8c4a5d6fb6"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_04a55f07_d295_4f41_8845_ca8c4a5d6fb6"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_fc75be58_63d6_4902_9b0f_51a67d401587"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_fc75be58_63d6_4902_9b0f_51a67d401587"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b31d54dd_0ca6_46a6_84c2_d642e115aee8"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b31d54dd_0ca6_46a6_84c2_d642e115aee8"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#ThirtySecondStroke"/>
+        <Class IRI="#ThirtySecondStroke"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/QuarterNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#LongaStroke"/>
+        <Class IRI="#LongaStroke"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Phrase"/>
+        <Class IRI="#Phrase"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ed8e2735_5b8e_41ec_ac76_cb0cfa18cfbf"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed8e2735_5b8e_41ec_ac76_cb0cfa18cfbf"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWholeRest"/>
@@ -366,31 +366,31 @@
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_569098f1_6caa_45c9_a963_bd3916242121"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_569098f1_6caa_45c9_a963_bd3916242121"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b4bf9fcd_9383_4490_ab37_0c22558d0b92"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b4bf9fcd_9383_4490_ab37_0c22558d0b92"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedSixteenth"/>
+        <Class IRI="#DottedSixteenth"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWhole"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Half"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3abf5817_175e_44c3_ba07_72d9fa343489"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3abf5817_175e_44c3_ba07_72d9fa343489"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/DoubleWholeRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_05e67ace_a48b_418a_a0ba_7c25743fe28d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_05e67ace_a48b_418a_a0ba_7c25743fe28d"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
@@ -399,16 +399,16 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/WholeRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3d85fc78_37b2_4937_86bb_e9fd525fbee6"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3d85fc78_37b2_4937_86bb_e9fd525fbee6"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_6e3a7a4d_a891_475e_b848_6ff7d907160c"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e3a7a4d_a891_475e_b848_6ff7d907160c"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/SixteenthRest"/>
@@ -420,49 +420,49 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedEighthNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e1a80cf2_8501_41e9_9978_58aa2eed0832"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e1a80cf2_8501_41e9_9978_58aa2eed0832"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#score_time"/>
+        <ObjectProperty IRI="#score_time"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Sixteenth"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d2fb6f73_5960_41b5_b66b_58a7b26eb45d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d2fb6f73_5960_41b5_b66b_58a7b26eb45d"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_aa39028f_c7b7_4bac_8ceb_2b0665d22e25"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_aa39028f_c7b7_4bac_8ceb_2b0665d22e25"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/ThirtySecondRest"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#ClassicalNoteName"/>
+        <Class IRI="#ClassicalNoteName"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0def2686_b173_4fec_8e53_d43f17280ec8"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0def2686_b173_4fec_8e53_d43f17280ec8"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedWholeRest"/>
+        <Class IRI="#DottedWholeRest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8062b43d_066c_491f_ac2d_83879f37fdaa"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8062b43d_066c_491f_ac2d_83879f37fdaa"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/WholeNote"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DoubleWholeStroke"/>
+        <Class IRI="#DoubleWholeStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_22526917_db05_4163_a485_476ab26600eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_22526917_db05_4163_a485_476ab26600eb"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
@@ -471,22 +471,22 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/Eighth"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_31a30da1_dbaa_485e_bf45_602aff48c897"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_31a30da1_dbaa_485e_bf45_602aff48c897"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedThirtySecondStroke"/>
+        <Class IRI="#DottedThirtySecondStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_444254f2_d79d_4cf3_bcad_f7354b627ab7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_444254f2_d79d_4cf3_bcad_f7354b627ab7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_62955138_0cd1_4a0e_822c_d3b7262a2d6d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_62955138_0cd1_4a0e_822c_d3b7262a2d6d"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_321c469d_8d42_4673_a207_99b94626ddb5"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_321c469d_8d42_4673_a207_99b94626ddb5"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/SixteenthNote"/>
@@ -498,10 +498,10 @@
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/accidental"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedHalfStroke"/>
+        <Class IRI="#DottedHalfStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
@@ -516,52 +516,52 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedEighth"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a8c32684_8442_4001_ac39_47a6c3a5378f"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a8c32684_8442_4001_ac39_47a6c3a5378f"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Artık_İkili"/>
+        <Class IRI="#Artık_İkili"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#dik_acem_aşiran_note"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/QuarterRest"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedEighthRest"/>
+        <Class IRI="#DottedEighthRest"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Tie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_89b6fefd_d550_46c2_9739_ec9707a339ee"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_89b6fefd_d550_46c2_9739_ec9707a339ee"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_81e377c2_cad3_4da6_bc86_4a089fe153bc"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_81e377c2_cad3_4da6_bc86_4a089fe153bc"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreTimeLine"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_1df4c3e5_9f6c_49a6_9093_0ac2bfb0f612"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1df4c3e5_9f6c_49a6_9093_0ac2bfb0f612"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedLongaStroke"/>
+        <Class IRI="#DottedLongaStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d38ec6d0_afbf_4aef_b48f_c4ef556854c3"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d38ec6d0_afbf_4aef_b48f_c4ef556854c3"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#HalfStroke"/>
+        <Class IRI="#HalfStroke"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Quarter"/>
@@ -570,28 +570,28 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedThirtySecondNote"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI=".owl#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
+        <DataProperty IRI="#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#EighthStroke"/>
+        <Class IRI="#EighthStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_06e654cb_68d0_4a5d_99a5_dba413a22a10"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_06e654cb_68d0_4a5d_99a5_dba413a22a10"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/ThirtySecondNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e19affc9_4a2d_4d8c_8f0a_5cf45010f59f"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e19affc9_4a2d_4d8c_8f0a_5cf45010f59f"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f0975230_0cbb_48ba_ad24_6c9fdf91cdbc"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f0975230_0cbb_48ba_ad24_6c9fdf91cdbc"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/temperament/Interval"/>
@@ -600,61 +600,61 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedQuarter"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_c5fd0b32_61d1_402e_a84e_3d8e0265274e"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5fd0b32_61d1_402e_a84e_3d8e0265274e"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Tanini"/>
+        <Class IRI="#Tanini"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#LongaNote"/>
+        <Class IRI="#LongaNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#Structure"/>
+        <Class IRI="#Structure"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ed681de3_0027_4225_8a53_01130dddc220"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed681de3_0027_4225_8a53_01130dddc220"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2f70ce06_7bc0_4d8b_82ab_88cf7d47ef40"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2f70ce06_7bc0_4d8b_82ab_88cf7d47ef40"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#ClassicalAccidental"/>
+        <Class IRI="#ClassicalAccidental"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Voice"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#EurogeneticAccidental"/>
+        <Class IRI="#EurogeneticAccidental"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI=".owl#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
+        <DataProperty IRI="#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3c5bc3f2_75bc_4632_aef2_ef47193903c7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3c5bc3f2_75bc_4632_aef2_ef47193903c7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7d619fb3_8727_43a1_b387_0b12f3fd85c9"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7d619fb3_8727_43a1_b387_0b12f3fd85c9"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedSixteenthRest"/>
+        <Class IRI="#DottedSixteenthRest"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#DottedEighthStroke"/>
+        <Class IRI="#DottedEighthStroke"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
@@ -666,37 +666,37 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedHalfNote"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5f700c1b_3d64_4ae3_8aa0_268c2ec5268d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5f700c1b_3d64_4ae3_8aa0_268c2ec5268d"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_22153ebf_9999_4ebb_8056_c59c2f305321"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_22153ebf_9999_4ebb_8056_c59c2f305321"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
+        <ObjectProperty IRI="#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_02fd568f_8378_4e6e_bc0e_368cbd3b57b8"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_02fd568f_8378_4e6e_bc0e_368cbd3b57b8"/>
     </Declaration>
     <Declaration>
-        <Class IRI=".owl#WholeStroke"/>
+        <Class IRI="#WholeStroke"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_83a85e43_c885_4611_a188_3ff6bf9a3ca7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_83a85e43_c885_4611_a188_3ff6bf9a3ca7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_165a1a13_bdb0_4427_a0f2_943762d8feb6"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_165a1a13_bdb0_4427_a0f2_943762d8feb6"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_030db28c_2079_48da_b4b6_7a52533734a4"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_030db28c_2079_48da_b4b6_7a52533734a4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d17a758b_4c91_4afa_903b_8db523ede107"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d17a758b_4c91_4afa_903b_8db523ede107"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Motif"/>
@@ -754,7 +754,7 @@
     </Declaration>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Accidental"/>
-        <Class IRI=".owl#EurogeneticAccidental"/>
+        <Class IRI="#EurogeneticAccidental"/>
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWhole"/>
@@ -840,7 +840,7 @@
             <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedSixteenth"/>
+                <Class IRI="#DottedSixteenth"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -978,11 +978,11 @@
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Note"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Pitch"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Quarter"/>
@@ -1094,72 +1094,72 @@
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="http://purl.org/ontology/temperament/Interval"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Artık_İkili"/>
+        <Class IRI="#Artık_İkili"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-12</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-13</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">13</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Bakiye"/>
+        <Class IRI="#Bakiye"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-4</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Büyük_Mücennep"/>
+        <Class IRI="#Büyük_Mücennep"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-8</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">8</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Comma"/>
+        <Class IRI="#Comma"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-1</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedDoubleWholeStroke"/>
+        <Class IRI="#DottedDoubleWholeStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWhole"/>
@@ -1167,7 +1167,7 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedEighthRest"/>
+        <Class IRI="#DottedEighthRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
@@ -1177,9 +1177,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedEighthStroke"/>
+        <Class IRI="#DottedEighthStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedEighth"/>
@@ -1187,7 +1187,7 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedHalfRest"/>
+        <Class IRI="#DottedHalfRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
@@ -1197,9 +1197,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedHalfStroke"/>
+        <Class IRI="#DottedHalfStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedHalf"/>
@@ -1207,44 +1207,44 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedLonga"/>
+        <Class IRI="#DottedLonga"/>
         <DataHasValue>
             <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
             <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">6.0</Literal>
         </DataHasValue>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedLongaNote"/>
+        <Class IRI="#DottedLongaNote"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedLonga"/>
+                <Class IRI="#DottedLonga"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedLongaRest"/>
+        <Class IRI="#DottedLongaRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedLonga"/>
+                <Class IRI="#DottedLonga"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedLongaStroke"/>
+        <Class IRI="#DottedLongaStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedLonga"/>
+                <Class IRI="#DottedLonga"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedQuarterRest"/>
+        <Class IRI="#DottedQuarterRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
@@ -1254,9 +1254,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedQuarterStroke"/>
+        <Class IRI="#DottedQuarterStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedQuarter"/>
@@ -1264,34 +1264,34 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedSixteenth"/>
+        <Class IRI="#DottedSixteenth"/>
         <DataHasValue>
             <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
             <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.09375</Literal>
         </DataHasValue>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedSixteenthRest"/>
+        <Class IRI="#DottedSixteenthRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedSixteenth"/>
+                <Class IRI="#DottedSixteenth"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedSixteenthStroke"/>
+        <Class IRI="#DottedSixteenthStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
-                <Class IRI=".owl#DottedSixteenth"/>
+                <Class IRI="#DottedSixteenth"/>
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedThirtySecondRest"/>
+        <Class IRI="#DottedThirtySecondRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
@@ -1301,9 +1301,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedThirtySecondStroke"/>
+        <Class IRI="#DottedThirtySecondStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedThirtysecond"/>
@@ -1311,7 +1311,7 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedWholeRest"/>
+        <Class IRI="#DottedWholeRest"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
             <ObjectAllValuesFrom>
@@ -1321,9 +1321,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DottedWholeStroke"/>
+        <Class IRI="#DottedWholeStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DottedWhole"/>
@@ -1331,9 +1331,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#DoubleWholeStroke"/>
+        <Class IRI="#DoubleWholeStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/DoubleWhole"/>
@@ -1341,9 +1341,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#EighthStroke"/>
+        <Class IRI="#EighthStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Eighth"/>
@@ -1351,9 +1351,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#HalfStroke"/>
+        <Class IRI="#HalfStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectExactCardinality cardinality="1">
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Half"/>
@@ -1361,20 +1361,20 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Küçük_Mücennep"/>
+        <Class IRI="#Küçük_Mücennep"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-5</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#LongaNote"/>
+        <Class IRI="#LongaNote"/>
         <ObjectIntersectionOf>
             <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
             <ObjectAllValuesFrom>
@@ -1384,9 +1384,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#LongaStroke"/>
+        <Class IRI="#LongaStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Longa"/>
@@ -1394,9 +1394,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#QuarterStroke"/>
+        <Class IRI="#QuarterStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Quarter"/>
@@ -1404,9 +1404,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#SixteenthStroke"/>
+        <Class IRI="#SixteenthStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Sixteenth"/>
@@ -1414,22 +1414,22 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#Tanini"/>
+        <Class IRI="#Tanini"/>
         <ObjectUnionOf>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">-9</Literal>
             </DataHasValue>
             <DataHasValue>
-                <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+                <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
                 <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
             </DataHasValue>
         </ObjectUnionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#ThirtySecondStroke"/>
+        <Class IRI="#ThirtySecondStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Thirtysecond"/>
@@ -1437,9 +1437,9 @@
         </ObjectIntersectionOf>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI=".owl#WholeStroke"/>
+        <Class IRI="#WholeStroke"/>
         <ObjectIntersectionOf>
-            <Class IRI=".owl#StrokeEvent"/>
+            <Class IRI="#StrokeEvent"/>
             <ObjectAllValuesFrom>
                 <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
                 <Class IRI="http://purl.org/ontology/symbolic-music/Whole"/>
@@ -1448,7 +1448,7 @@
     </EquivalentClasses>
     <SubClassOf>
         <Class IRI="http://purl.org/ontology/symbolic-music/Accidental"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.org/ontology/symbolic-music/Bar"/>
@@ -1635,180 +1635,180 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Artık_İkili"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Artık_İkili"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Bakiye"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Bakiye"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Büyük_Mücennep"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Büyük_Mücennep"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <Class IRI="#Accidental"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <Class IRI="#NoteName"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Comma"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Comma"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedDoubleWholeStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedDoubleWholeStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedEighthRest"/>
+        <Class IRI="#DottedEighthRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedEighthStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedEighthStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedHalfRest"/>
+        <Class IRI="#DottedHalfRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedHalfStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedHalfStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedLonga"/>
+        <Class IRI="#DottedLonga"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedLongaNote"/>
+        <Class IRI="#DottedLongaNote"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedLongaRest"/>
+        <Class IRI="#DottedLongaRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedLongaStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedLongaStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedQuarterRest"/>
+        <Class IRI="#DottedQuarterRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedQuarterStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedQuarterStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedSixteenth"/>
+        <Class IRI="#DottedSixteenth"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedSixteenthRest"/>
+        <Class IRI="#DottedSixteenthRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedSixteenthStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedSixteenthStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedThirtySecondRest"/>
+        <Class IRI="#DottedThirtySecondRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedThirtySecondStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedThirtySecondStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedWholeRest"/>
+        <Class IRI="#DottedWholeRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/RestEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DottedWholeStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DottedWholeStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#DoubleWholeStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#DoubleWholeStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#EighthStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#EighthStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#EurogeneticAccidental"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#EurogeneticAccidental"/>
+        <Class IRI="#Accidental"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#EurogeneticNote"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#EurogeneticNote"/>
+        <Class IRI="#NoteName"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#FolkAccidental"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#FolkAccidental"/>
+        <Class IRI="#Accidental"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#FolkNoteName"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#FolkNoteName"/>
+        <Class IRI="#NoteName"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#HalfStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#HalfStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Küçük_Mücennep"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Küçük_Mücennep"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#LongaNote"/>
+        <Class IRI="#LongaNote"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#LongaStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#LongaStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Phrase"/>
-        <Class IRI=".owl#Structure"/>
+        <Class IRI="#Phrase"/>
+        <Class IRI="#Structure"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#QuarterStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#QuarterStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Section"/>
-        <Class IRI=".owl#Structure"/>
+        <Class IRI="#Section"/>
+        <Class IRI="#Structure"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#SixteenthStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#SixteenthStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#StrokeEvent"/>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Structure"/>
+        <Class IRI="#Structure"/>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#Tanini"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#Tanini"/>
+        <Class IRI="#PitchInterval"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#ThirtySecondStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#ThirtySecondStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#WholeStroke"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <Class IRI="#WholeStroke"/>
+        <Class IRI="#StrokeEvent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI=".owl#53TETNoteName"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#53TETNoteName"/>
+        <Class IRI="#NoteName"/>
     </SubClassOf>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
@@ -1824,23 +1824,23 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
@@ -1852,23 +1852,23 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractInterval"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
@@ -1876,23 +1876,23 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/NET/c4dm/timeline.owl#AbstractTimeLine"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWhole"/>
@@ -1909,8 +1909,8 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/Sixteenth"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/Thirtysecond"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/Whole"/>
-        <Class IRI=".owl#DottedLonga"/>
-        <Class IRI=".owl#DottedSixteenth"/>
+        <Class IRI="#DottedLonga"/>
+        <Class IRI="#DottedSixteenth"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWholeNote"/>
@@ -1927,8 +1927,8 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/SixteenthNote"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/ThirtySecondNote"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/WholeNote"/>
-        <Class IRI=".owl#DottedLongaNote"/>
-        <Class IRI=".owl#LongaNote"/>
+        <Class IRI="#DottedLongaNote"/>
+        <Class IRI="#LongaNote"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/DottedDoubleWholeRest"/>
@@ -1940,13 +1940,13 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/SixteenthRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/ThirtySecondRest"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/WholeRest"/>
-        <Class IRI=".owl#DottedEighthRest"/>
-        <Class IRI=".owl#DottedHalfRest"/>
-        <Class IRI=".owl#DottedLongaRest"/>
-        <Class IRI=".owl#DottedQuarterRest"/>
-        <Class IRI=".owl#DottedSixteenthRest"/>
-        <Class IRI=".owl#DottedThirtySecondRest"/>
-        <Class IRI=".owl#DottedWholeRest"/>
+        <Class IRI="#DottedEighthRest"/>
+        <Class IRI="#DottedHalfRest"/>
+        <Class IRI="#DottedLongaRest"/>
+        <Class IRI="#DottedQuarterRest"/>
+        <Class IRI="#DottedSixteenthRest"/>
+        <Class IRI="#DottedThirtySecondRest"/>
+        <Class IRI="#DottedWholeRest"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
@@ -1954,79 +1954,79 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI=".owl#Accidental"/>
+        <Class IRI="#Accidental"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#Accidental"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <Class IRI="#Accidental"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#Accidental"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#Accidental"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#Accidental"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#Accidental"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#DottedDoubleWholeStroke"/>
-        <Class IRI=".owl#DottedEighthStroke"/>
-        <Class IRI=".owl#DottedHalfStroke"/>
-        <Class IRI=".owl#DottedLongaStroke"/>
-        <Class IRI=".owl#DottedQuarterStroke"/>
-        <Class IRI=".owl#DottedSixteenthStroke"/>
-        <Class IRI=".owl#DottedThirtySecondStroke"/>
-        <Class IRI=".owl#DottedWholeStroke"/>
+        <Class IRI="#DottedDoubleWholeStroke"/>
+        <Class IRI="#DottedEighthStroke"/>
+        <Class IRI="#DottedHalfStroke"/>
+        <Class IRI="#DottedLongaStroke"/>
+        <Class IRI="#DottedQuarterStroke"/>
+        <Class IRI="#DottedSixteenthStroke"/>
+        <Class IRI="#DottedThirtySecondStroke"/>
+        <Class IRI="#DottedWholeStroke"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#DoubleWholeStroke"/>
-        <Class IRI=".owl#EighthStroke"/>
-        <Class IRI=".owl#HalfStroke"/>
-        <Class IRI=".owl#LongaStroke"/>
-        <Class IRI=".owl#QuarterStroke"/>
-        <Class IRI=".owl#SixteenthStroke"/>
-        <Class IRI=".owl#ThirtySecondStroke"/>
-        <Class IRI=".owl#WholeStroke"/>
+        <Class IRI="#DoubleWholeStroke"/>
+        <Class IRI="#EighthStroke"/>
+        <Class IRI="#HalfStroke"/>
+        <Class IRI="#LongaStroke"/>
+        <Class IRI="#QuarterStroke"/>
+        <Class IRI="#SixteenthStroke"/>
+        <Class IRI="#ThirtySecondStroke"/>
+        <Class IRI="#WholeStroke"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
-        <Class IRI=".owl#NoteName"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
+        <Class IRI="#NoteName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#NoteName"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <Class IRI="#NoteName"/>
+        <Class IRI="#PitchInterval"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#NoteName"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#NoteName"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI=".owl#PitchInterval"/>
-        <Class IRI=".owl#StrokeName"/>
+        <Class IRI="#PitchInterval"/>
+        <Class IRI="#StrokeName"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="http://purl.org/ontology/symbolic-music/Note"/>
@@ -2069,7 +2069,7 @@
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/flat"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
+        <Class IRI="#FolkAccidental"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/flat"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -2081,15 +2081,15 @@
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/natural"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
+        <Class IRI="#ClassicalAccidental"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/natural"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#EurogeneticAccidental"/>
+        <Class IRI="#EurogeneticAccidental"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/natural"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
+        <Class IRI="#FolkAccidental"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/natural"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -2097,565 +2097,565 @@
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/sharp"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
+        <Class IRI="#FolkAccidental"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/sharp"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
+        <Class IRI="#ClassicalNoteName"/>
         <NamedIndividual IRI="#dik_acem_aşiran_note"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_02fd568f_8378_4e6e_bc0e_368cbd3b57b8"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_02fd568f_8378_4e6e_bc0e_368cbd3b57b8"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_030db28c_2079_48da_b4b6_7a52533734a4"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_030db28c_2079_48da_b4b6_7a52533734a4"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_04a55f07_d295_4f41_8845_ca8c4a5d6fb6"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_04a55f07_d295_4f41_8845_ca8c4a5d6fb6"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_05e67ace_a48b_418a_a0ba_7c25743fe28d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_05e67ace_a48b_418a_a0ba_7c25743fe28d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_06e654cb_68d0_4a5d_99a5_dba413a22a10"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_06e654cb_68d0_4a5d_99a5_dba413a22a10"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0def2686_b173_4fec_8e53_d43f17280ec8"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0def2686_b173_4fec_8e53_d43f17280ec8"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_165a1a13_bdb0_4427_a0f2_943762d8feb6"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_165a1a13_bdb0_4427_a0f2_943762d8feb6"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_19c752e5_1484_4614_91e7_97e040e9eb6d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_19c752e5_1484_4614_91e7_97e040e9eb6d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_1df4c3e5_9f6c_49a6_9093_0ac2bfb0f612"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1df4c3e5_9f6c_49a6_9093_0ac2bfb0f612"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_22153ebf_9999_4ebb_8056_c59c2f305321"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_22153ebf_9999_4ebb_8056_c59c2f305321"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_22526917_db05_4163_a485_476ab26600eb"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_22526917_db05_4163_a485_476ab26600eb"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2b349fd8_9a2b_472e_a5eb_ff20aeaad75d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2b349fd8_9a2b_472e_a5eb_ff20aeaad75d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2cc08e31_7d08_428f_b2d2_13c3d4868704"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2cc08e31_7d08_428f_b2d2_13c3d4868704"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2e64d127_7bbd_4ec6_9ca2_e6199a608e18"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2e64d127_7bbd_4ec6_9ca2_e6199a608e18"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_2f70ce06_7bc0_4d8b_82ab_88cf7d47ef40"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_2f70ce06_7bc0_4d8b_82ab_88cf7d47ef40"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_31a30da1_dbaa_485e_bf45_602aff48c897"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_31a30da1_dbaa_485e_bf45_602aff48c897"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_321c469d_8d42_4673_a207_99b94626ddb5"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_321c469d_8d42_4673_a207_99b94626ddb5"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3abf5817_175e_44c3_ba07_72d9fa343489"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3abf5817_175e_44c3_ba07_72d9fa343489"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3c5bc3f2_75bc_4632_aef2_ef47193903c7"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3c5bc3f2_75bc_4632_aef2_ef47193903c7"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3d85fc78_37b2_4937_86bb_e9fd525fbee6"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3d85fc78_37b2_4937_86bb_e9fd525fbee6"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_444254f2_d79d_4cf3_bcad_f7354b627ab7"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_444254f2_d79d_4cf3_bcad_f7354b627ab7"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#53TETNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
+        <Class IRI="#53TETNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5227bca4_9a45_4d5a_9708_183806224951"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5227bca4_9a45_4d5a_9708_183806224951"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5444addf_2c1e_4366_90a3_fa0b47ba7878"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5444addf_2c1e_4366_90a3_fa0b47ba7878"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_569098f1_6caa_45c9_a963_bd3916242121"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_569098f1_6caa_45c9_a963_bd3916242121"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_586a9bcc_e4b2_4994_9da8_1a9303fb925d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_586a9bcc_e4b2_4994_9da8_1a9303fb925d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_589b66f8_8e60_4fd6_abe7_31846a04372b"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_589b66f8_8e60_4fd6_abe7_31846a04372b"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_58c1fd1f_314f_4365_88a2_da1d5575c76f"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_58c1fd1f_314f_4365_88a2_da1d5575c76f"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_59c99567_f17b_4831_91c0_2f6ad8a54036"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_59c99567_f17b_4831_91c0_2f6ad8a54036"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5e37893d_8eff_4ddb_bea0_b9fe1963f962"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5e37893d_8eff_4ddb_bea0_b9fe1963f962"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_5f700c1b_3d64_4ae3_8aa0_268c2ec5268d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5f700c1b_3d64_4ae3_8aa0_268c2ec5268d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_62955138_0cd1_4a0e_822c_d3b7262a2d6d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_62955138_0cd1_4a0e_822c_d3b7262a2d6d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_6e3a7a4d_a891_475e_b848_6ff7d907160c"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e3a7a4d_a891_475e_b848_6ff7d907160c"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_79ecfc5f_5da8_4caa_8c7e_b38cdc9b56ba"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_79ecfc5f_5da8_4caa_8c7e_b38cdc9b56ba"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7a2fef64_172b_4bc3_beee_0152e6c9268f"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7a2fef64_172b_4bc3_beee_0152e6c9268f"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7d619fb3_8727_43a1_b387_0b12f3fd85c9"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7d619fb3_8727_43a1_b387_0b12f3fd85c9"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8062b43d_066c_491f_ac2d_83879f37fdaa"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8062b43d_066c_491f_ac2d_83879f37fdaa"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_81e377c2_cad3_4da6_bc86_4a089fe153bc"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_81e377c2_cad3_4da6_bc86_4a089fe153bc"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_830e9862_3ef7_4758_8d44_55fc3f4afe40"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_830e9862_3ef7_4758_8d44_55fc3f4afe40"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_83a85e43_c885_4611_a188_3ff6bf9a3ca7"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_83a85e43_c885_4611_a188_3ff6bf9a3ca7"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_88943b1f_e71a_41b5_816a_f5cc352db510"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_88943b1f_e71a_41b5_816a_f5cc352db510"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_89b6fefd_d550_46c2_9739_ec9707a339ee"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_89b6fefd_d550_46c2_9739_ec9707a339ee"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8bd72a68_9f13_4378_b9e8_1011874ca433"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8bd72a68_9f13_4378_b9e8_1011874ca433"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#EurogeneticAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
+        <Class IRI="#EurogeneticAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9318a928_9791_441d_928c_e7741d71e57f"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9318a928_9791_441d_928c_e7741d71e57f"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_992ec9df_03c1_4cd1_85c5_f7c45ac3c178"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_992ec9df_03c1_4cd1_85c5_f7c45ac3c178"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9e60e38a_a3e0_4edb_9272_51258945363b"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e60e38a_a3e0_4edb_9272_51258945363b"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a40cd98d_5536_453c_9027_91f661128e28"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a40cd98d_5536_453c_9027_91f661128e28"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a8863ee0_f1bb_40c5_a105_5afd52073ace"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a8863ee0_f1bb_40c5_a105_5afd52073ace"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_a8c32684_8442_4001_ac39_47a6c3a5378f"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_a8c32684_8442_4001_ac39_47a6c3a5378f"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_aa39028f_c7b7_4bac_8ceb_2b0665d22e25"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_aa39028f_c7b7_4bac_8ceb_2b0665d22e25"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ac126561_33f9_49bf_8f35_a45fc61ac860"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ac126561_33f9_49bf_8f35_a45fc61ac860"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b02a74d0_da55_46d9_9b0f_e44f7210971d"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b02a74d0_da55_46d9_9b0f_e44f7210971d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b31d54dd_0ca6_46a6_84c2_d642e115aee8"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b31d54dd_0ca6_46a6_84c2_d642e115aee8"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_b4bf9fcd_9383_4490_ab37_0c22558d0b92"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_b4bf9fcd_9383_4490_ab37_0c22558d0b92"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_bb168753_581c_4823_9f70_ddafec141533"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_bb168753_581c_4823_9f70_ddafec141533"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_c4207c8e_4713_462f_bfbe_2af0772cdea8"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c4207c8e_4713_462f_bfbe_2af0772cdea8"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_c5fd0b32_61d1_402e_a84e_3d8e0265274e"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5fd0b32_61d1_402e_a84e_3d8e0265274e"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_cb700852_112f_42d1_b9c2_88ae89fa2f09"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_cb700852_112f_42d1_b9c2_88ae89fa2f09"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#FolkAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
+        <Class IRI="#FolkAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d17a758b_4c91_4afa_903b_8db523ede107"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d17a758b_4c91_4afa_903b_8db523ede107"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d2fb6f73_5960_41b5_b66b_58a7b26eb45d"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d2fb6f73_5960_41b5_b66b_58a7b26eb45d"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d38ec6d0_afbf_4aef_b48f_c4ef556854c3"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d38ec6d0_afbf_4aef_b48f_c4ef556854c3"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d4fafddb_9cd3_40e4_8819_91c22b2c0beb"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d4fafddb_9cd3_40e4_8819_91c22b2c0beb"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_d6b8683d_00b1_493e_b722_36bf5028fbc5"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d6b8683d_00b1_493e_b722_36bf5028fbc5"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_db874690_e5d1_45ed_89a3_7fb9bd590c14"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_db874690_e5d1_45ed_89a3_7fb9bd590c14"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#StrokeName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e19affc9_4a2d_4d8c_8f0a_5cf45010f59f"/>
+        <Class IRI="#StrokeName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e19affc9_4a2d_4d8c_8f0a_5cf45010f59f"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e1a80cf2_8501_41e9_9978_58aa2eed0832"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e1a80cf2_8501_41e9_9978_58aa2eed0832"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_e253b5f0_7096_4ec2_a99e_632903ec6ebc"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e253b5f0_7096_4ec2_a99e_632903ec6ebc"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ed681de3_0027_4225_8a53_01130dddc220"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed681de3_0027_4225_8a53_01130dddc220"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ed8e2735_5b8e_41ec_ac76_cb0cfa18cfbf"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed8e2735_5b8e_41ec_ac76_cb0cfa18cfbf"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f0975230_0cbb_48ba_ad24_6c9fdf91cdbc"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f0975230_0cbb_48ba_ad24_6c9fdf91cdbc"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#EurogeneticAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
+        <Class IRI="#EurogeneticAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#EurogeneticAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
+        <Class IRI="#EurogeneticAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f7418bd3_14f7_4cfe_a549_04aca0a1d407"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f7418bd3_14f7_4cfe_a549_04aca0a1d407"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
+        <Class IRI="#ClassicalAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_faf19a5a_e0b9_44c1_93a1_9e58124e18b9"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_faf19a5a_e0b9_44c1_93a1_9e58124e18b9"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#EurogeneticAccidental"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
+        <Class IRI="#EurogeneticAccidental"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI=".owl#ClassicalNoteName"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_fc75be58_63d6_4902_9b0f_51a67d401587"/>
+        <Class IRI="#ClassicalNoteName"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_fc75be58_63d6_4902_9b0f_51a67d401587"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/double_flat"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/double_natural"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/double_sharp"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/flat"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-4.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/natural"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <NamedIndividual IRI="http://purl.org/ontology/symbolic-music/sharp"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_01afca4c_66ef_48b3_bcc3_21bd696a3173"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_05514863_b191_4100_88a2_8fd5180660ea"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0ca6f2ca_5121_4598_812b_85b63ff91819"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0f593035_c8a8_4115_a561_a07416041134"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3b270759_e6a2_44e2_8321_b276460771bb"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">+1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3e94eadf_942e_4569_8a18_7b0175fd4f04"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41380b4c_964b_46d2_b327_4f232de63613"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
+        <DataProperty IRI="#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_46f7fd63_1b52_4ce8_a88c_8ee5068db978"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_4c8900d0_5f9f_4a5b_8af9_9d19f32a703e"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">+2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6dcaf715_6611_4ce9_b41f_f2033d1919ae"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">+8</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_700df79c_7e41_4817_bf21_5d138fa122b7"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">+3</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_74317462_a940_444e_9fd0_4b19944af891"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">+5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7828dc74_f94d_4fea_9fcd_84035c93af58"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-8</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8d40626f_40a0_40eb_b9a1_2070ba0d8fe7"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_8f43216f_7462_4ccd_bfa2_b431c1e86be1"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-2.25</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e4286ca_aaee_47da_95e4_86e2ae09b4b9"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-3</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ae733e65_182c_4f10_b007_d6ae4927fd54"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ba7b6f32_27b4_4d30_a0fd_446b6d404732"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_cbd16101_685f_4677_b621_7c947a279b94"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f212056f_c045_4e86_af66_31d753c2aa20"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">-6.75</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f721e416_aa3c_4c2b_8c2a_e046b15db0b4"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">6.75</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f992497b_4ebd_49d9_a8c2_156dd0331c76"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">-4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <NamedIndividual IRI=".owl#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_fb5702d6_4cf0_414f_8966_ccd4e97bc2c1"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.25</Literal>
     </DataPropertyAssertion>
     <EquivalentObjectProperties>
@@ -2668,11 +2668,11 @@
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/accidental"/>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
     </EquivalentObjectProperties>
     <EquivalentObjectProperties>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/note"/>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
+        <ObjectProperty IRI="#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
     </EquivalentObjectProperties>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
@@ -2683,20 +2683,20 @@
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#factor"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <ObjectProperty IRI="#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
+        <ObjectProperty IRI="#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#factor"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
     </SubObjectPropertyOf>
     <FunctionalObjectProperty>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/timeline.owl#timeline"/>
@@ -2711,19 +2711,19 @@
         <ObjectProperty IRI="http://purl.org/ontology/symbolic-music/pitch"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
+        <ObjectProperty IRI="#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
+        <ObjectProperty IRI="#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
     </FunctionalObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
@@ -2746,28 +2746,28 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/NoteEvent"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
-        <Class IRI=".owl#ClassicalNoteName"/>
+        <ObjectProperty IRI="#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
+        <Class IRI="#ClassicalNoteName"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
-        <Class IRI=".owl#FolkNoteName"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
+        <Class IRI="#FolkNoteName"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
-        <Class IRI=".owl#StrokeEvent"/>
+        <ObjectProperty IRI="#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
+        <Class IRI="#StrokeEvent"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
-        <Class IRI=".owl#NoteName"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <Class IRI="#NoteName"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
-        <Class IRI=".owl#EurogeneticNoteSymbol"/>
+        <ObjectProperty IRI="#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
+        <Class IRI="#EurogeneticNoteSymbol"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
-        <Class IRI=".owl#EurogeneticNote"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <Class IRI="#EurogeneticNote"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
@@ -2790,53 +2790,53 @@
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
-        <Class IRI=".owl#ClassicalAccidental"/>
+        <ObjectProperty IRI="#OWLObjectProperty_1a9aa969_6a2d_40b0_bf2e_7053388ab316"/>
+        <Class IRI="#ClassicalAccidental"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
-        <Class IRI=".owl#FolkAccidental"/>
+        <ObjectProperty IRI="#OWLObjectProperty_3b3bd859_e7da_4a3b_ba47_1b44855e22a3"/>
+        <Class IRI="#FolkAccidental"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
-        <Class IRI=".owl#StrokeName"/>
+        <ObjectProperty IRI="#OWLObjectProperty_43e43f2e_c86b_483b_8d49_c6565dcf1dbd"/>
+        <Class IRI="#StrokeName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
-        <Class IRI=".owl#Accidental"/>
+        <ObjectProperty IRI="#OWLObjectProperty_50796425_fc18_4649_9f83_4b4b1042c640"/>
+        <Class IRI="#Accidental"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
-        <Class IRI=".owl#NoteName"/>
+        <ObjectProperty IRI="#OWLObjectProperty_88481c45_fd1b_40cf_8349_35ae8e77650f"/>
+        <Class IRI="#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
-        <Class IRI=".owl#EurogeneticAccidental"/>
+        <ObjectProperty IRI="#OWLObjectProperty_b3736177_422e_41ec_9806_699a62cb8911"/>
+        <Class IRI="#EurogeneticAccidental"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI=".owl#score_time"/>
+        <ObjectProperty IRI="#score_time"/>
         <Class IRI="http://purl.org/ontology/symbolic-music/ScoreTimeLine"/>
     </ObjectPropertyRange>
     <FunctionalDataProperty>
-        <DataProperty IRI=".owl#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
+        <DataProperty IRI="#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
     </FunctionalDataProperty>
     <FunctionalDataProperty>
-        <DataProperty IRI=".owl#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
+        <DataProperty IRI="#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
     </FunctionalDataProperty>
     <DataPropertyDomain>
-        <DataProperty IRI=".owl#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
-        <Class IRI=".owl#NoteName"/>
+        <DataProperty IRI="#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
+        <Class IRI="#NoteName"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
-        <Class IRI=".owl#PitchInterval"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <Class IRI="#PitchInterval"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI=".owl#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
-        <Class IRI=".owl#NoteName"/>
+        <DataProperty IRI="#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
+        <Class IRI="#NoteName"/>
     </DataPropertyDomain>
     <DataPropertyRange>
-        <DataProperty IRI=".owl#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
+        <DataProperty IRI="#OWLDataProperty_537fe052_1d2c_44ee_959a_8167e0fa5c8f"/>
         <DatatypeRestriction>
             <Datatype abbreviatedIRI="xsd:positiveInteger"/>
             <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
@@ -2848,14 +2848,14 @@
         </DatatypeRestriction>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI=".owl#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
+        <DataProperty IRI="#OWLDataProperty_6b1c2a7f_cf62_4847_9876_ed896eebc83b"/>
         <DataUnionOf>
             <Datatype abbreviatedIRI="xsd:float"/>
             <Datatype abbreviatedIRI="xsd:int"/>
         </DataUnionOf>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI=".owl#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
+        <DataProperty IRI="#OWLDataProperty_989ead94_771d_43e2_b31e_3c9e6ed35bf0"/>
         <DatatypeRestriction>
             <Datatype abbreviatedIRI="xsd:int"/>
             <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
@@ -3405,7 +3405,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik acem aşiran_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>#dik_acem_aşiran_note</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F4#1</Literal>
     </AnnotationAssertion>
@@ -3710,7 +3710,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dik kürdi_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_02fd568f_8378_4e6e_bc0e_368cbd3b57b8</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A3#5</Literal>
     </AnnotationAssertion>
@@ -3720,7 +3720,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik kürdi_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_030db28c_2079_48da_b4b6_7a52533734a4</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A4#5</Literal>
     </AnnotationAssertion>
@@ -3740,7 +3740,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_05e67ace_a48b_418a_a0ba_7c25743fe28d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C5#5</Literal>
     </AnnotationAssertion>
@@ -3750,7 +3750,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nim hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_06e654cb_68d0_4a5d_99a5_dba413a22a10</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C5#4</Literal>
     </AnnotationAssertion>
@@ -3775,7 +3775,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hüseyni aşiran_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_165a1a13_bdb0_4427_a0f2_943762d8feb6</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">E4</Literal>
     </AnnotationAssertion>
@@ -3785,7 +3785,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">muhayyer_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_19c752e5_1484_4614_91e7_97e040e9eb6d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A5</Literal>
     </AnnotationAssertion>
@@ -3795,7 +3795,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">neva_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_1d28b33f_67bf_4595_b110_0f672c2728aa</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D5</Literal>
     </AnnotationAssertion>
@@ -3810,7 +3810,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nim şehnaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_22153ebf_9999_4ebb_8056_c59c2f305321</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G5#4</Literal>
     </AnnotationAssertion>
@@ -3820,7 +3820,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_22526917_db05_4163_a485_476ab26600eb</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">B3</Literal>
     </AnnotationAssertion>
@@ -3830,12 +3830,12 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba segah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A3#8</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_23d3dc88_a500_4b74_af1e_e286c880974b</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">B3b1</Literal>
     </AnnotationAssertion>
@@ -3845,7 +3845,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba nim hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_2b349fd8_9a2b_472e_a5eb_ff20aeaad75d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C4#4</Literal>
     </AnnotationAssertion>
@@ -3855,7 +3855,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_2cc08e31_7d08_428f_b2d2_13c3d4868704</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C6#5</Literal>
     </AnnotationAssertion>
@@ -3872,7 +3872,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_2e64d127_7bbd_4ec6_9ca2_e6199a608e18</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C5#8</Literal>
     </AnnotationAssertion>
@@ -3889,7 +3889,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik acem_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_2f70ce06_7bc0_4d8b_82ab_88cf7d47ef40</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F5#1</Literal>
     </AnnotationAssertion>
@@ -3899,7 +3899,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hüseyni_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_30e06b28_962c_41a4_b867_60634630e69e</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">E5</Literal>
     </AnnotationAssertion>
@@ -3909,7 +3909,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">şehnaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_31a30da1_dbaa_485e_bf45_602aff48c897</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G5#5</Literal>
     </AnnotationAssertion>
@@ -3919,7 +3919,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nim hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_321c469d_8d42_4673_a207_99b94626ddb5</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D5#4</Literal>
     </AnnotationAssertion>
@@ -3929,7 +3929,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">acem aşiran_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_3abf5817_175e_44c3_ba07_72d9fa343489</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F4</Literal>
     </AnnotationAssertion>
@@ -3944,7 +3944,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz neva_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_3c5bc3f2_75bc_4632_aef2_ef47193903c7</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D6</Literal>
     </AnnotationAssertion>
@@ -3954,7 +3954,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dik zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_3d85fc78_37b2_4937_86bb_e9fd525fbee6</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G3#8</Literal>
     </AnnotationAssertion>
@@ -3981,7 +3981,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz dik buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_444254f2_d79d_4cf3_bcad_f7354b627ab7</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C6b1</Literal>
     </AnnotationAssertion>
@@ -4001,7 +4001,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba çargah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_5227bca4_9a45_4d5a_9708_183806224951</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C4</Literal>
     </AnnotationAssertion>
@@ -4018,7 +4018,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dik buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_5444addf_2c1e_4366_90a3_fa0b47ba7878</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C4b1</Literal>
     </AnnotationAssertion>
@@ -4033,7 +4033,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_586a9bcc_e4b2_4994_9da8_1a9303fb925d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D6#5</Literal>
     </AnnotationAssertion>
@@ -4043,7 +4043,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz nim hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_589b66f8_8e60_4fd6_abe7_31846a04372b</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D6#4</Literal>
     </AnnotationAssertion>
@@ -4060,7 +4060,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik geveşt_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_58c1fd1f_314f_4365_88a2_da1d5575c76f</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F4#8</Literal>
     </AnnotationAssertion>
@@ -4070,7 +4070,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik sünbüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_59c99567_f17b_4831_91c0_2f6ad8a54036</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A5#5</Literal>
     </AnnotationAssertion>
@@ -4080,7 +4080,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_5e37893d_8eff_4ddb_bea0_b9fe1963f962</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G4#8</Literal>
     </AnnotationAssertion>
@@ -4090,7 +4090,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">sünbüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_5f700c1b_3d64_4ae3_8aa0_268c2ec5268d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A5#4</Literal>
     </AnnotationAssertion>
@@ -4100,7 +4100,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz acem_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_62955138_0cd1_4a0e_822c_d3b7262a2d6d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F6</Literal>
     </AnnotationAssertion>
@@ -4110,12 +4110,12 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz segah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A5#8</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_692794b0_3593_4d2c_b551_a35cf1c160b9</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">B5b1</Literal>
     </AnnotationAssertion>
@@ -4130,7 +4130,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik şehnaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_6e3a7a4d_a891_475e_b848_6ff7d907160c</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G5#8</Literal>
     </AnnotationAssertion>
@@ -4155,7 +4155,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba nim hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_79ecfc5f_5da8_4caa_8c7e_b38cdc9b56ba</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D4#4</Literal>
     </AnnotationAssertion>
@@ -4165,7 +4165,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">eviç_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_7a2fef64_172b_4bc3_beee_0152e6c9268f</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F5#4</Literal>
     </AnnotationAssertion>
@@ -4175,7 +4175,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz nim hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_7d619fb3_8727_43a1_b387_0b12f3fd85c9</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C6#4</Literal>
     </AnnotationAssertion>
@@ -4192,7 +4192,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz dik hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_8062b43d_066c_491f_ac2d_83879f37fdaa</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C6#8</Literal>
     </AnnotationAssertion>
@@ -4202,7 +4202,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">yegah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_81e377c2_cad3_4da6_bc86_4a089fe153bc</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D4</Literal>
     </AnnotationAssertion>
@@ -4217,7 +4217,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">geveşt_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_83a85e43_c885_4611_a188_3ff6bf9a3ca7</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F4#5</Literal>
     </AnnotationAssertion>
@@ -4234,7 +4234,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz dik acem_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_88943b1f_e71a_41b5_816a_f5cc352db510</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F6#1</Literal>
     </AnnotationAssertion>
@@ -4244,7 +4244,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz gerdaniye_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_89b6fefd_d550_46c2_9739_ec9707a339ee</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G6</Literal>
     </AnnotationAssertion>
@@ -4254,7 +4254,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz eviç_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_8bd72a68_9f13_4378_b9e8_1011874ca433</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F6#4</Literal>
     </AnnotationAssertion>
@@ -4274,7 +4274,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rast_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_9318a928_9791_441d_928c_e7741d71e57f</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G4</Literal>
     </AnnotationAssertion>
@@ -4284,7 +4284,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">gerdaniye_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_98974ae4_0489_40a0_add8_e845d99b3df2</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G5</Literal>
     </AnnotationAssertion>
@@ -4294,7 +4294,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dik hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_992ec9df_03c1_4cd1_85c5_f7c45ac3c178</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D4#8</Literal>
     </AnnotationAssertion>
@@ -4314,7 +4314,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz çargah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_a40cd98d_5536_453c_9027_91f661128e28</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C6</Literal>
     </AnnotationAssertion>
@@ -4331,7 +4331,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dik hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_a8863ee0_f1bb_40c5_a105_5afd52073ace</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C4#8</Literal>
     </AnnotationAssertion>
@@ -4341,7 +4341,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_a8c32684_8442_4001_ac39_47a6c3a5378f</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G4#5</Literal>
     </AnnotationAssertion>
@@ -4351,7 +4351,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_aa39028f_c7b7_4bac_8ceb_2b0665d22e25</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">B5</Literal>
     </AnnotationAssertion>
@@ -4361,7 +4361,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz hüseyni_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_ac126561_33f9_49bf_8f35_a45fc61ac860</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">E6</Literal>
     </AnnotationAssertion>
@@ -4376,7 +4376,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_b02a74d0_da55_46d9_9b0f_e44f7210971d</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D5#8</Literal>
     </AnnotationAssertion>
@@ -4386,7 +4386,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba dügah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_b31d54dd_0ca6_46a6_84c2_d642e115aee8</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A3</Literal>
     </AnnotationAssertion>
@@ -4396,7 +4396,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba rast_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_b4bf9fcd_9383_4490_ab37_0c22558d0b92</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G3</Literal>
     </AnnotationAssertion>
@@ -4411,7 +4411,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba nim zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_bb168753_581c_4823_9f70_ddafec141533</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G3#4</Literal>
     </AnnotationAssertion>
@@ -4421,7 +4421,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ırak_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_c4207c8e_4713_462f_bfbe_2af0772cdea8</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F4#4</Literal>
     </AnnotationAssertion>
@@ -4431,7 +4431,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz mahur_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_c5fd0b32_61d1_402e_a84e_3d8e0265274e</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F6#5</Literal>
     </AnnotationAssertion>
@@ -4441,7 +4441,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kürdi_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_cb700852_112f_42d1_b9c2_88ae89fa2f09</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A4#4</Literal>
     </AnnotationAssertion>
@@ -4456,7 +4456,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba hicaz_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_d17a758b_4c91_4afa_903b_8db523ede107</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C4#5</Literal>
     </AnnotationAssertion>
@@ -4478,7 +4478,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_d38ec6d0_afbf_4aef_b48f_c4ef556854c3</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C5b1</Literal>
     </AnnotationAssertion>
@@ -4488,7 +4488,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz dik hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_d4fafddb_9cd3_40e4_8819_91c22b2c0beb</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D6#8</Literal>
     </AnnotationAssertion>
@@ -4498,7 +4498,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_d6b8683d_00b1_493e_b722_36bf5028fbc5</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D5#5</Literal>
     </AnnotationAssertion>
@@ -4508,7 +4508,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">buselik_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_dabbea88_fbbf_41b2_bbd9_186880510932</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">B4</Literal>
     </AnnotationAssertion>
@@ -4518,7 +4518,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">çargah_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_db874690_e5d1_45ed_89a3_7fb9bd590c14</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">C5</Literal>
     </AnnotationAssertion>
@@ -4533,7 +4533,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_e1a80cf2_8501_41e9_9978_58aa2eed0832</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G3#5</Literal>
     </AnnotationAssertion>
@@ -4543,7 +4543,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba hisar_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_e253b5f0_7096_4ec2_a99e_632903ec6ebc</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">D4#5</Literal>
     </AnnotationAssertion>
@@ -4560,7 +4560,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">dik mahur_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_ed681de3_0027_4225_8a53_01130dddc220</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F5#8</Literal>
     </AnnotationAssertion>
@@ -4570,7 +4570,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">acem_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_ed8e2735_5b8e_41ec_ac76_cb0cfa18cfbf</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F5</Literal>
     </AnnotationAssertion>
@@ -4580,7 +4580,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">mahur_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_f0975230_0cbb_48ba_ad24_6c9fdf91cdbc</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F5#5</Literal>
     </AnnotationAssertion>
@@ -4600,7 +4600,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">kaba kürdi_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_f7418bd3_14f7_4cfe_a549_04aca0a1d407</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A3#4</Literal>
     </AnnotationAssertion>
@@ -4615,7 +4615,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nim zirgüle_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_faf19a5a_e0b9_44c1_93a1_9e58124e18b9</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">G4#4</Literal>
     </AnnotationAssertion>
@@ -4637,7 +4637,7 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tiz dik mahur_note</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI=".owl#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_68fb55de_62cb_434a_b922_6868b07a990c"/>
         <IRI>.owl#OWLNamedIndividual_fc75be58_63d6_4902_9b0f_51a67d401587</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">F6#8</Literal>
     </AnnotationAssertion>
