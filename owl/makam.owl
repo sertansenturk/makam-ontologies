@@ -1242,7 +1242,7 @@
         <NamedIndividual IRI="#Anberefsan"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Asiran-Maye"/>
@@ -1755,25 +1755,25 @@
         <ObjectProperty IRI="http://purl.org/ontology/olo/core#next"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.org/ontology/symbolic-music/Timbre"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="-symbolic-music.owl#strokeName"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#strokeName"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="-symbolic-music.owl#tek"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#tek"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://purl.org/ontology/mo/level"/>
@@ -1785,10 +1785,10 @@
         <DataProperty IRI="http://purl.org/NET/c4dm/timeline.owl#duration"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="-symbolic-music.owl#dum"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#dum"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="-symbolic-music.owl#interval"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#interval"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="http://purl.org/ontology/mo/uuid"/>
@@ -1797,7 +1797,7 @@
         <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
     </Declaration>
     <Declaration>
-        <Class IRI="-symbolic-music.owl#StrokeEvent"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeEvent"/>
     </Declaration>
     <EquivalentClasses>
         <Class IRI="#AscendingDescendingMakam"/>
@@ -1880,7 +1880,7 @@
             <Class IRI="#Chord"/>
             <ObjectExactCardinality cardinality="4">
                 <ObjectProperty IRI="#hasPitchInterval"/>
-                <Class IRI="-symbolic-music.owl#PitchInterval"/>
+                <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
             </ObjectExactCardinality>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -1905,7 +1905,7 @@
             <Class IRI="#Chord"/>
             <ObjectExactCardinality cardinality="3">
                 <ObjectProperty IRI="#hasPitchInterval"/>
-                <Class IRI="-symbolic-music.owl#PitchInterval"/>
+                <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
             </ObjectExactCardinality>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -1925,7 +1925,7 @@
             <Class IRI="#Chord"/>
             <ObjectExactCardinality cardinality="2">
                 <ObjectProperty IRI="#hasPitchInterval"/>
-                <Class IRI="-symbolic-music.owl#PitchInterval"/>
+                <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
             </ObjectExactCardinality>
         </ObjectIntersectionOf>
     </EquivalentClasses>
@@ -2584,143 +2584,143 @@
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Chord"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Flavor"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Form"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Makam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Progression"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Scale"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#Accidental"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#Accidental"/>
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Chord"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Flavor"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Form"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Makam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Progression"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Scale"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#EurogeneticNoteSymbol"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#EurogeneticNoteSymbol"/>
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Chord"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Flavor"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Form"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Makam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Progression"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Scale"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Chord"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Flavor"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Form"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Makam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Progression"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Scale"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Chord"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Flavor"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Form"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Makam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Progression"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Scale"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="-symbolic-music.owl#StrokeName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeName"/>
         <Class IRI="#Usul"/>
     </DisjointClasses>
     <DisjointClasses>
@@ -3368,7 +3368,7 @@
         <NamedIndividual IRI="#kurdi_tetrachord"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval1"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3640,7 +3640,7 @@
         <NamedIndividual IRI="#Sakil"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval3"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4036,7 +4036,7 @@
         <NamedIndividual IRI="#hicaz_tetrachord"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval2"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4136,7 +4136,7 @@
         <NamedIndividual IRI="#Beyatibuselik"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="-symbolic-music.owl#StrokeEvent"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeEvent"/>
         <NamedIndividual IRI="#Nimsofyan_stroke2"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4736,7 +4736,7 @@
         <NamedIndividual IRI="#Arabankurdi"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="-symbolic-music.owl#StrokeEvent"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeEvent"/>
         <NamedIndividual IRI="#Nimsofyan_stroke1"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -5039,9 +5039,9 @@
         <NamedIndividual IRI="#Nimsofyan_time2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="-symbolic-music.owl#strokeName"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#strokeName"/>
         <NamedIndividual IRI="#Nimsofyan_stroke2"/>
-        <NamedIndividual IRI="-symbolic-music.owl#tek"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#tek"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasStroke"/>
@@ -5064,9 +5064,9 @@
         <NamedIndividual IRI="#Nimsofyan_stroke2"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="-symbolic-music.owl#strokeName"/>
+        <ObjectProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#strokeName"/>
         <NamedIndividual IRI="#Nimsofyan_stroke1"/>
-        <NamedIndividual IRI="-symbolic-music.owl#dum"/>
+        <NamedIndividual IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#dum"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#numberOfPulses"/>
@@ -5089,7 +5089,7 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="-symbolic-music.owl#interval"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#interval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval1"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">9</Literal>
     </DataPropertyAssertion>
@@ -5099,7 +5099,7 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">3</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="-symbolic-music.owl#interval"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#interval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval3"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">5</Literal>
     </DataPropertyAssertion>
@@ -5109,7 +5109,7 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="-symbolic-music.owl#interval"/>
+        <DataProperty IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#interval"/>
         <NamedIndividual IRI="#rast_tetrachord_interval2"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">8</Literal>
     </DataPropertyAssertion>
@@ -5347,11 +5347,11 @@
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasNote"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasPitchInterval"/>
-        <Class IRI="-symbolic-music.owl#PitchInterval"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#PitchInterval"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasProgression"/>
@@ -5363,11 +5363,11 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasFinalNote"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasLeading"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasFlavor"/>
@@ -5375,7 +5375,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasStroke"/>
-        <Class IRI="-symbolic-music.owl#StrokeEvent"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#StrokeEvent"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasChord"/>
@@ -5387,11 +5387,11 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#flavorHasBaseNote"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasSuspendedCadence"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#isSubformOf"/>
@@ -5399,7 +5399,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasDominant"/>
-        <Class IRI="-symbolic-music.owl#NoteName"/>
+        <Class IRI="https://raw.githubusercontent.com/sertansenturk/makam-ontologies/master/owl/makam-symbolic-music#NoteName"/>
     </ObjectPropertyRange>
     <SubDataPropertyOf>
         <DataProperty IRI="http://purl.org/ontology/mo/musicbrainz_guid"/>
