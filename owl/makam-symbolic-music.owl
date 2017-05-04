@@ -36,7 +36,7 @@
         <NamedIndividual IRI="#kurdi_note"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#EurogeneticNote"/>
+        <Class IRI="#EurogeneticNoteName"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#dik-hicaz_note"/>
@@ -1743,7 +1743,7 @@
         <Class IRI="#Accidental"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#EurogeneticNote"/>
+        <Class IRI="#EurogeneticNoteName"/>
         <Class IRI="#NoteName"/>
     </SubClassOf>
     <SubClassOf>
@@ -2767,7 +2767,7 @@
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#eurogeneticAccidental"/>
-        <Class IRI="#EurogeneticNote"/>
+        <Class IRI="#EurogeneticNoteName"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#sub_event"/>
@@ -3601,13 +3601,13 @@ Source: CAN, M. C. (2002). Geleneksel Türk Sanat Müziğinde Arel Ezgi Uzdilek 
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#EurogeneticNote</IRI>
+        <IRI>#EurogeneticNoteName</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The note names used in Eurogenetic musics, including microtonal notes.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#EurogeneticNote</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">EurogeneticNote</Literal>
+        <IRI>#EurogeneticNoteName</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">EurogeneticNoteName</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>

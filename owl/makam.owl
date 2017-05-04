@@ -8636,7 +8636,7 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>.owl-symbolic-music#EurogeneticNote</IRI>
+        <IRI>.owl-symbolic-music#EurogeneticNoteName</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Note names in Eurogenetic musics.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
